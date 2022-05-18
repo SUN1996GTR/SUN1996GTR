@@ -113,140 +113,119 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDL
 url:"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8"
 },
 {
-name:"CH 3 ชุด2",
+name:"CH 3 สำรอง",
 image:"https://f.ptcdn.info/266/075/000/r1lsbi5hue2Rfy3VfPI-o.png",
-url:"https://we-play.live/watching/tv/ch3-hd"
+url:"http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8"
 },
 {
-name:"CH 7 ชุด2",
+name:"CH 7 สำรอง",
 image:"https://f.ptcdn.info/519/072/000/qo9d97109hRleCN85b8q-o.jpg",
-url:"https://we-play.live/watching/tv/ch7-hd"
+url:"http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8"
 },
 {
-name:"WORKPOINT ชุด2",
+name:"WORKPOINT สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjB0Vvi9eb3kX9AnphsXxpJYsuDTuMbaywg&usqp=CAU",
-url:"https://we-play.live/watching/tv/workpoint"
+url:"https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"MCOT HD ชุด2",
+name:"MCOT HD สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCK_IJfCoXXsfTcyhTJ_fpHANqXSjE4nhTQ&usqp=CAU",
-url:"https://we-play.live/watching/tv/mcot-hd"
+url:"https://www.livedoomovies.com:4431/02_MCOTHD_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"ONE 31 ชุด2",
+name:"ONE 31 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8hKixnP2LwmcmKF68Afj8bvePtP47K2F-rw&usqp=CAU",
-url:"https://we-play.live/watching/tv/one-hd"
+url:"https://www.livedoomovies.com:4431/02_GMMONE_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"THAIRATH ชุด2",
+name:"THAIRATH สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibOiS8cYBV-MGHZA-J-2nD38rVoa6-XEnFg&usqp=CAU",
-url:"https://we-play.live/watching/tv/thairath-tv"
+url:"http://freelive2.inwstream.com:1935/freelive-edge/thairahttvhd/playlist.m3u8"
 },
 {
-name:"MONO29 ชุด2",
+name:"MONO29 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8zceq-cDIu0ztNDKEFgmefg80PAFpl9czA&usqp=CAU",
-url:"https://we-play.live/watching/tv/mono29"
+url:"https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8"
 },
 {
-name:"AMARIN TV ชุด2",
+name:"AMARIN TV สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbRJhySb-3htwXAgkYFR5dzs7r0WY3iByNg&usqp=CAU",
-url:"https://we-play.live/watching/tv/amarin-tv"
+url:"https://www.livedoomovies.com:4431/02_AMARINHD_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"CH 8 ชุด2",
+name:"CH 8 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0K-FHY6c8qFv8fIX8mDHLYy-44q1if5INIQ&usqp=CAU",
-url:"https://we-play.live/watching/tv/ch8"
+url:"https://www.livedoomovies.com:4431/02_8HD_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"GMM25 ชุด2",
+name:"GMM25 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRkAM_9zGb2p7eC0twQ8BAv1f1Pjc_haLRMg&usqp=CAU",
-url:"https://we-play.live/watching/tv/gmm25"
+url:"https://www.livedoomovies.com:4431/02_GMM_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"PPTV ชุด2",
+name:"PPTV สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-m85jX38dwvOZJfz4IbTzEhJKnKljVSFRw&usqp=CAU",
-url:"https://we-play.live/watching/tv/pptv-hd"
+url:"https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8"
 },
 {
-name:"TRUE4U ชุด2",
+name:"TRUE4U สำรอง",
 image:"https://siamrath.co.th/files/img/20170307/d764ec2fa55eb5bcbd8441087b59a7673230fece4715f9b93faf524f7f693d81.jpg",
-url:"https://we-play.live/watching/tv/true4u"
+url:"https://www.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"CH 5 ชุด2",
+name:"CH 5 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKtVS2ZKbKVvRrHRmCF2g4UlrvxRDdCNESUg&usqp=CAU",
-url:"https://we-play.live/watching/tv/ch5-hd"
+url:"http://freelive2.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8"
 },
 {
-name:"THAI PBS ชุด2",
-image:"https://pbs.twimg.com/profile_images/1516275605104631813/h6tDqmRi_400x400.jpg",
-url:"https://we-play.live/watching/tv/thai-pbs"
+name:"THAI PBS สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhWhFI-IAc2QlI804HqFSs9S5sjxE-tkYmQ&usqp=CAU",
+url:"https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 },
 {
-name:"JKN 18 ชุด2",
+name:"JKN 18 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4YCflIyiLdKDbEx1jU3wonimfTnzLfphJA&usqp=CAU",
-url:"https://we-play.live/watching/tv/jkn-18"
+url:"https://www.livedoomovies.com:4431/02_JKN_480p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"T Sports 7 ชุด2",
+name:"T Sports 7 สำรอง",
 image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS69Thm99n6GynSG5HmbRf4o9zSg8tXJttSwR9kuid_esyJ9e8r",
 url:"https://youdooball.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
  "referer": "https://www.youdooball.com/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"NBT ชุด2",
+name:"NBT สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6i9Rf1czdGWz59BRKHgo9PCvQl9g8E0NmWQ&usqp=CAU",
-url:"https://we-play.live/watching/tv/11-nbt"
+url:"http://freelive2.inwstream.com:1935/freelive-edge/nbt/playlist.m3u8"
 },
 {
-name:"NATION ชุด2",
+name:"NATION สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8W7b84ELkfkei4jWWMULIBBnL1EX4G9UUw&usqp=CAU",
-url:"https://we-play.live/watching/tv/nationtv"
+url:"https://www.livedoomovies.com:4431/02_NATION_480p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"ALTV ชุด2",
+name:"ALTV สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7aZkC0IGdTGhGdZzw8z5tJy_iDe6xCr9lA&usqp=CAU",
 url:"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
-},
-{
-name:"CH 3 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvb3DY0mGw8FmsGd5nCGyBenyZU1GX5vNzTw&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8"
-},
-{
-name:"WORKPOINT สำรอง",
-image:"https://site-assets.mediaoxide.com/workpointtv/2019/07/10034534/wp23-_500x261.jpg",
-url:"https://www.doofootball.com/dootv/live/workpoint#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"CH 7 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8"
-},
-{
-name:"PPTV สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbRXCc8z3K0TcTJ_rEsGv88_I30KLZEyG1g&usqp=CAU",
-url:"https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8"
-},
-{
-name:"T Sports 7 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHdhj8tfQ6jzaZM6WScoJRndUFVfnqmWWIg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/tsports#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"MONO29 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtv6n8pGauGIxzgGBT7WaoAi1DnOMV90LEA&usqp=CAU",
-url:"https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8"
-},
-{
-name:"THAI PBS สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzzZqDtVpvA78NzDXgJ4NKw6FYpARCMDR0w&usqp=CAU",
-url:"https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 },
 ]
 }
