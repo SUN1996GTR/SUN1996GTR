@@ -1,0 +1,47 @@
+{
+"name": "SUPER PLAYLIST",
+"author": "SUN",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEOw_Cd9zLN5XLTiqo7EI9CX8tFOCRlQkyA&usqp=CAU",
+"url": "https://github.com/",
+"groups": [
+ 
+ 
+ 
+{
+"name": "DIGITAL TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3zRB2fJppGN6dHdi-19A4sV35uTS2-ezbQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/DIGITAL%20TV",
+"import": false
+},
+{
+"name": "DOCUMENTARY",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6KBVGrU6YY5bwzEYaPg9vd4Poygc-bCcMQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/DOCUMENTARY",
+"import": false
+},
+{
+"name": "KIDS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/KIDS",
+"import": false
+},
+{
+"name": "ENTERTAINMENT",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-Hg04bRcxnfLrtvZkWQX5qac9ZgafZblw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/ENTERTAINMENT",
+"import": false
+},
+{
+"name": "SPORTS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29PGwocI1rUbh5dTH0pOuNVrk_ViUwKmIyQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/SPORTS",
+"import": false
+},
+{
+"name": "GOOD TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaMHzYe4nnpu8S5luAE0I6QI6Sah_PeDeL6Q&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/GOOD%20TV",
+"import": false
+},
+]
+}
