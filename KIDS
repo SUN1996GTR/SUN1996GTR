@@ -33,19 +33,24 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHa8sb2sv2-GpYNxyO
 url:"http://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8"
 },
 {
+name:"NextKid",
+image:"https://cdn.discordapp.com/attachments/961584381993037847/961593510270734386/810a5fa68863efb67e7db2d6037c165a.jpg",
+url:"https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozOToxMyBBTSZoYXNoX3ZhbHVlPUVVVUhMbVUvYkpxRzB2QzRNbER1bmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfMjgxNzU="
+},
+{  
 name:"Boomerang",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
 url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd"
 },
 {
+name:"Animation World",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgx88SLFLFuXVeoDoXO0uwnZtjyPmSq6EOQ&usqp=CAU",
+url:"http://203.154.243.89:28010/pa/umi.ts"
+},
+{
 name:"sanook",
 image:"https://www.dropbox.com/s/rx92n7jjorl8hsf/lVgd2n.png?dl=1",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
-},
-{
-name:"Animation World",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsM7QlRksqlaiFkufuZr13s6e6uZainQiSbw&usqp=CAU",
-url:"http://203.154.243.89:28010/pa/umi.ts"
 },
 {
 name:"Hbo Family",
