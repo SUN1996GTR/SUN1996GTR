@@ -71,17 +71,16 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78
 url:"https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1ODozOCBQTSZoYXNoX3ZhbHVlPW42ZzhpM0p3OTVEbU1nNW1vU1ZOdHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDEyODc="
 },
 {  
-name:"True Series",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-},
-{
 name:"True Xzyte",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
 url:"https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzozMSBQTSZoYXNoX3ZhbHVlPURzSmtMcjFuYVYycEIyY0IvbXk2cmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNDE5OTk="
 },
 {
+name:"UNIVERSAL",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",
+url:"http://203.154.243.89:28010/pa/universal.ts"
+},
+{  
 name:"FwMov",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",
 url:"http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8"
