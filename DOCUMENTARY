@@ -8,12 +8,14 @@ stations:[
 {
 name:"Animal Planet",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU",
-url:"https://mediasv.online/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1MDoxOCBQTSZoYXNoX3ZhbHVlPU5aVFR0QTBUMGU1cVMyNVQwRWJPeXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfNzkyNTc="
+url:"https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"Love Nature",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",
-url:"https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0OToyMiBQTSZoYXNoX3ZhbHVlPWR0OGgycFRjL01CaGlzYUMvY0UxK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjY1MTU="
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd"
 },
 {
 name:"Sumlojlok",
@@ -25,13 +27,16 @@ url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
 {
 name:"Discovery",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6gMQaAt5dfPwpx0ePojcK41Rd27MTYXDZxw&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://www.doofootball.com/dootv/live/discovery#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
 },
 {
 name:"Discovery Asia",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJxQqvZpQHNsPu-kYHVsSm_Y2Og6UJcekRA&usqp=CAU",
-url:"https://mediasv.online/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDIyIDQ6MjA6MzMgQU0maGFzaF92YWx1ZT1ULzJlMEJtYlRyWkI0SkJNUUlQRlVBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMwJmlkPWNoXzE3NDM4"
+url:"https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer": "true"
 },
 {
 name:"National Geographic",
@@ -41,7 +46,9 @@ url:"https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8?w
 {
 name:"History",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
-url:"https://mediasv.online/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0Njo1MCBQTSZoYXNoX3ZhbHVlPWVZMldNQW1QZlhaME5SbkJlNjJTd3c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTgmaWQ9Y2hfOTE1Mzc="
+url:"https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"History 2",
@@ -51,12 +58,16 @@ url:"https://mediasv.online/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2
 {
 name:"TRUE EXPLORE WILD",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
-url:"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI="
+url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"BBC EARTH",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iNxl2zMVsDz8OMGHkdKClG1PsC2d-Ka_0Q&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"NAT GEO WILD",
@@ -106,14 +117,14 @@ url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
 {  
 name:"Animal Planet สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
+url:"https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"Love Nature สำรอง",
-image:"https://we-play.live/uploads/posters/lovenature-4k-poster1602705702.jpeg",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd"
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Tv061sqYaxawaiNuYnbQ-k4S_1T8F1xrEA&usqp=CAU",
+url:"https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0OToyMiBQTSZoYXNoX3ZhbHVlPWR0OGgycFRjL01CaGlzYUMvY0UxK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjY1MTU="
 },
 {  
 name:"Sumlojok สำรอง",
@@ -125,9 +136,8 @@ url:"https://cdn6.goprimetime.info/feed/202105171329/LC8/index.m3u8",
 {
 name:"Discovery สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JGlqlwZArE7MQfJRJernPw8PTiZjMrCZGg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/discovery#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 },
 {
 name:"Discovery Asia สำรอง",
@@ -161,8 +171,7 @@ url:"https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8",
 {
 name:"TRUE EXPLORE WILD สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_B1FiHPCFMW2tyd_pLEkZHTQ22ikjNUFdbQ&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI="
 },
 {
 name:"Asian Food Network สำรอง",
