@@ -43,9 +43,7 @@ url:"https://mediasv.online/stream_live/228_warner/playlist.m3u8?wmsAuthSign=c2V
 {
 name:"True Movie His",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/moviehits#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MDoyMCBQTSZoYXNoX3ZhbHVlPVNDY2g2cUtjUVIra3k5TFRUQWRXK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjQmaWQ9Y2hfMjUzMzk="
 },
 {
 name:"True Film 1",
@@ -110,6 +108,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9E
 url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd"
 },
 {
+name:"TVB",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",
+url:"https://mediasv.online/stream_live/235_TVB/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NzoxOSBQTSZoYXNoX3ZhbHVlPUY4TEd4QlpxVWhRWVAvQ2pUeTdRb0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfOTk0OTk="
+},
+{  
 name:"tvN",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3RPhKP9TvzYKL2p3jMFSKOYZzFCUseC55w&usqp=CAU",
 url:"https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDoxOCBQTSZoYXNoX3ZhbHVlPStXSVZ5a2loL09rZDJab2paczRETVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTMxMDU="
@@ -203,6 +206,13 @@ url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
 name:"CINEMAX สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPojE0ckWMSW2_Ezf-DKzHeVfKLgEtxWAA&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/cinemax#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+{
+name:"True Movie His สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/moviehits#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
 },
