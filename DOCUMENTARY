@@ -75,6 +75,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_Risrl
 url:"http://203.154.243.88:11088/hi/natgeo"
 },
 {
+name:"DOONEE เปิดโลก",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3MFrl6yuo-VinAgLtt78i-Lq8gn18ZX22A&usqp=CAU",
+url:"http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8"
+},
+{
 name:"Asian Food Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAIkIdQyue4LCpnQk90b0z4Q0US5iUeRgjg&usqp=CAU",
 url:"https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx"
@@ -85,11 +90,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9dacL8e4hKrF_OH91
 url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd"
 },
 {  
-name:"DOONEE เปิดโลก",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3MFrl6yuo-VinAgLtt78i-Lq8gn18ZX22A&usqp=CAU",
-url:"http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8"
-},
-{
 name:"ANIMAL",
 image:"https://sv1.picz.in.th/images/2022/04/04/8ioRSt.png",
 url:"http://203.154.243.89:28010/pa/animal.ts"
