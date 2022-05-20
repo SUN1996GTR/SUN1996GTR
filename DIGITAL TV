@@ -38,7 +38,7 @@ url:"https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8"
 {
 name:"MONO29",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQid5XXTY6E8ThC3T5biEaPmZq0a7HfM8Y8pQ&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8"
+url:"https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8"
 },
 {
 name:"AMARIN TV",
@@ -151,7 +151,7 @@ url:"http://freelive2.inwstream.com:1935/freelive-edge/thairahttvhd/playlist.m3u
 {
 name:"MONO29 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8zceq-cDIu0ztNDKEFgmefg80PAFpl9czA&usqp=CAU",
-url:"https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8"
+url:"http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8"
 },
 {
 name:"AMARIN TV สำรอง",
