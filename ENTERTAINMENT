@@ -1,250 +1,199 @@
 {
-name:"ENTERTAINMENT",
+name:"DOUCMENTARY",
 author:"SUN",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-Hg04bRcxnfLrtvZkWQX5qac9ZgafZblw&usqp=CAU",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6KBVGrU6YY5bwzEYaPg9vd4Poygc-bCcMQ&usqp=CAU",
 
 stations:[
 
 {
-name:"HBO",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qGExFqdU32p4rCwxHQV1laSKJgcm_iC4MA&usqp=CAU",
-url:"http://ip2121.com:8081/web1/hbo/playlist.m3u8"
+name:"Animal Planet",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU",
+url:"https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"HBO HITS",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd"
+name:"Love Nature",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd"
 },
 {
-name:"HBO SIGNATURE",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd"
+name:"Sumlojlok",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",
+url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+ "playInNatPlayer": "true"
 },
 {
-name:"HBO FAMILY",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd"
-},
-{
-name:"CINEMAX",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd"
-},
-{
-name:"Paramount",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthBgkyHvR3UoAALXugrhmu6Q4Qo-PQo_E8w&usqp=CAU",
-url:"https://mediasv.online/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NTo1NyBQTSZoYXNoX3ZhbHVlPVJOeTZ6dDhkRmo3SUNlVnpGN1AyS0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjE4NTY="
-},
-{
-name:"WARNER TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
-url:"https://mediasv.online/stream_live/228_warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NTowMiBQTSZoYXNoX3ZhbHVlPUZ6bFAveGJJa3dsbFhiMk1yRngrMmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNTY2MDk="
-},
-{
-name:"True Movie His",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",
-url:"https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MDoyMCBQTSZoYXNoX3ZhbHVlPVNDY2g2cUtjUVIra3k5TFRUQWRXK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjQmaWQ9Y2hfMjUzMzk="
-},
-{
-name:"True Film 1",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",
-url:"https://mediasv.online/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1Nzo1MiBQTSZoYXNoX3ZhbHVlPWhzdTcwbTBLVXk2cjI0RTdPVWlJd0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNTE1Njg="
-},
-{
-name:"True Chinese More",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",
-url:"https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MToxMyBQTSZoYXNoX3ZhbHVlPW1IZXhtREdBT21sRzBTaDFxWG5GTHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfOTk3NDA="
-},
-{
-name:"True Asian More",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYKTpaM6SS0qRte_Kky29tdfLZQawwPLWzA&usqp=CAU",
-url:"https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1OToxMSBQTSZoYXNoX3ZhbHVlPXloWGswNktIa2FtZnVLS050NERpMXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjc3MjU="
-},
-{
-name:"True Korean More",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",
-url:"https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NDoxNCBQTSZoYXNoX3ZhbHVlPXBleDRmT0hXNS8zMUQzbmV4MWVSNkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfMjYwNzI="
-},
-{
-name:"True Thai Film",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
-url:"https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1ODozOCBQTSZoYXNoX3ZhbHVlPW42ZzhpM0p3OTVEbU1nNW1vU1ZOdHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDEyODc="
-},
-{  
-name:"True Xzyte",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
-url:"https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzozMSBQTSZoYXNoX3ZhbHVlPURzSmtMcjFuYVYycEIyY0IvbXk2cmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNDE5OTk="
-},
-{
-name:"UNIVERSAL",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",
-url:"http://203.154.243.89:28010/pa/universal.ts"
-},
-{  
-name:"FwMov",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8"
-},
-{
-name:"FwSov",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9Qq0Fc_g4qUlOGLzycMkkeNSLWNgmcD2hw&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8"
-},
-{
-name:"Hits Movie",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0n5q5necIkYIxUzbxS3Ez65Innjj50imzg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
+name:"Discovery",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6gMQaAt5dfPwpx0ePojcK41Rd27MTYXDZxw&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/discovery#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
 },
 {
-name:"MONO PLUS",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpLGDPDLfKxb9HKqCcPOB-FAqG__jMZJtxg&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd"
+name:"Discovery Asia",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJxQqvZpQHNsPu-kYHVsSm_Y2Og6UJcekRA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer": "true"
 },
 {
-name:"3BB Asian",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd"
+name:"National Geographic",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNZFpMWynbl3M_AlHqXAwmXRRxGDXjH4GmQ&usqp=CAU",
+url:"https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0ODo0NSBQTSZoYXNoX3ZhbHVlPUZBaHVsNUJXeVgxbTQ5RTh3VDA5UWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzYmaWQ9Y2hfODg0MTM="
 },
 {
-name:"tvN",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3RPhKP9TvzYKL2p3jMFSKOYZzFCUseC55w&usqp=CAU",
-url:"https://mediasv.online/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDoxOCBQTSZoYXNoX3ZhbHVlPStXSVZ5a2loL09rZDJab2paczRETVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTMxMDU="
+name:"History",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
-name:"CCM",
-image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw-KzD_bLUExn8SfXuClJ36PWkjxM190K9kpeGx965ACbITSWg",
-url:"https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NjoyNiBQTSZoYXNoX3ZhbHVlPWJiSG9VWlp0Qm5SbnVHWDdxdGhzZVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNjI5ODI="
+name:"History 2",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGjSVYKNMT2zEXhtWf9FBXWxNMuNLXNtezfw&usqp=CAU",
+url:"https://mediasv.online/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0NjoxMiBQTSZoYXNoX3ZhbHVlPURTaUx0VmpiUUk0c09LN2FwVHJacmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjMmaWQ9Y2hfNDYzMDU="
 },
 {
-name:"GEM",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0aHjGU-gfJUIy_FBPxiAeUpDze9vFaOBYw&usqp=CAU",
-url:"https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDo0OSBQTSZoYXNoX3ZhbHVlPTFndXJXdEpZT1E0NytNbkw1QXJaVEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTY3MTU="
+name:"TRUE EXPLORE WILD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
-name:"CTB",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",
-url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8"
+name:"BBC EARTH",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iNxl2zMVsDz8OMGHkdKClG1PsC2d-Ka_0Q&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
-name:"Kbs World",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",
-url:"https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5"
+name:"NAT GEO WILD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU",
+url:"http://203.154.243.88:11088/hi/natgeo"
 },
 {
-name:"AXN",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
-url:"https://mediasv.online/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMjoxMyBQTSZoYXNoX3ZhbHVlPXR0dzdoNHczVS9CcFlyTHM2UFRTV0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfMjM5Njc="
+name:"DOONEE เปิดโลก",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3MFrl6yuo-VinAgLtt78i-Lq8gn18ZX22A&usqp=CAU",
+url:"http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8"
 },
 {
-name:"Rock Entertainment",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppGXAVxFcNXR30eEOO17XCyu3H6m6Dxn3Lg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/blueant#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"Rock Extreme",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",
-url:"https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzowMSBQTSZoYXNoX3ZhbHVlPUVkSEJkRUxqKzROVEVzRE80WEdzRnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNjM5MTE="
-},
-{
-name:"Food Network",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",
+name:"Asian Food Network",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAIkIdQyue4LCpnQk90b0z4Q0US5iUeRgjg&usqp=CAU",
 url:"https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx"
 },
 {
-name:"MONO MUSIC",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm4P4oPdjtxZ9GppTQjhIy-ivFTgxXpWW6g&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd"
+name:"BBC Lifestyle",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9dacL8e4hKrF_OH91wV-RccOrrSCZB8rxw&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd"
 },
 {  
-name:"A lure channel",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6EIALl2vS_aY9L1X1gfDgE7QHEXJVhZJmw&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd"
+name:"ANIMAL",
+image:"https://sv1.picz.in.th/images/2022/04/04/8ioRSt.png",
+url:"http://203.154.243.89:28010/pa/animal.ts"
 },
 {  
-name:"RUSH STORIES",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYrHO0BKlxdFooaj8vocKhdYd95VdaVp75w&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd"
+name:"SCIENCE",
+image:"https://sv1.picz.in.th/images/2022/04/04/8ijG4f.png",
+url:"http://203.154.243.89:28010/pa/sci.ts"
 },
 {  
-name:"HBO สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGeBKR3Gbn27aOKYhL8tzo7ZSERA5Mi-KYg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hbohd#main_dootv",
+name:"ถิ่นใต้",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4OnZE5nQtzQ08fvjPB09tSjg1LrmhKd_hIg&usqp=CAU",
+url:"http://freelive2.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8"
+},
+{
+name:"ฟาร์มทีวี",
+image:"https://www.voiceoffarmer.net/wp-content/uploads/2021/10/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5-HD%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.png",
+url:"http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8"
+},
+{  
+name:"เจริญเคเบิ้ล",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJGgIGh5rnNjZS6QoXXmpdj-e0UcJi5FbTg&usqp=CAU",
+url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
+},
+{  
+name:"Animal Planet สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",
+url:"https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+name:"Love Nature สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Tv061sqYaxawaiNuYnbQ-k4S_1T8F1xrEA&usqp=CAU",
+url:"https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0OToyMiBQTSZoYXNoX3ZhbHVlPWR0OGgycFRjL01CaGlzYUMvY0UxK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjY1MTU="
+},
+{  
+name:"Sumlojok สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwuRbVdUrgoJd6R3FkE8_CtwJBOH3vUVAxQ&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/202105171329/LC8/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+ "playInNatPlayer": "true"
+},
+{
+name:"Discovery สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JGlqlwZArE7MQfJRJernPw8PTiZjMrCZGg&usqp=CAU",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+},
+{
+name:"Discovery Asia สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVSLXxul2rmqhsSo3KSf6OzZUyt0TUkm_DQ&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
 },
 {
-name:"HBO HITS สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD6Vc_EINItbIPIMSs4rpLDkkaJWVGgDuUw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hbohit#main_dootv",
+name:"National Geographic สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqp9-ubV3t87pLgZ8G6Bh4itMa-V5GMk-Og&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/natgeo#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
 },
 {
-name:"HBO SIGNATURE สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyhylkMh12QLIYQue1RJB1rznESNif0AYTg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hbosignature#main_dootv",
+name:"History สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU",
+url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
+url:"https://www.doofootball.com/dootv/live/history#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+ "playInNatPlayer": "true"
+},
+{
+name:"History 2 สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Lnrn0FdcTDJCeGfQ8xi7i_kJ4jN00uqYCg&usqp=CAU",
+url:"https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8",
+    "referer": "https://www.doomovie-hd.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+name:"TRUE EXPLORE WILD สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_B1FiHPCFMW2tyd_pLEkZHTQ22ikjNUFdbQ&usqp=CAU",
+url:"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI="
+},
+{
+name:"Asian Food Network สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl4ZpOu_bDUYcLpPYNrktKYcV94SJTMGNyuQ&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/afc#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
 },
 {
-name:"HBO FAMILY สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+name:"Sumlojok สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzHUG6Gni8UJkWNZ72wIGRJ3VPSAppAHiOQ&usqp=CAU",
+url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+ "playInNatPlayer": "true"
 },
 {
-name:"CINEMAX สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPojE0ckWMSW2_Ezf-DKzHeVfKLgEtxWAA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/cinemax#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"True Movie Hits สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJTF_ZB3NAXGQolQOpGotSF8Q7ejzi2oYyw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/moviehits#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"tvN สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3RPhKP9TvzYKL2p3jMFSKOYZzFCUseC55w&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/tvn#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"GEM สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0aHjGU-gfJUIy_FBPxiAeUpDze9vFaOBYw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/gem#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"AXN สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/axn#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"Rock Extreme สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/blueantextream#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"Food Network สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX9SZ_vee7k3LM10iPoZfG4gl6ZNL_inqaA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/foodnetwork#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+name:"Discovery Asia สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h3uypIk0fQQmXyWKxNJJHAEmFbVGv6LNGQ&usqp=CAU",
+url:"https://www.livedoomovies.com:4431/02_DiscoveryHDWorld/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"desktop": "true"
 },
 ]
 }
