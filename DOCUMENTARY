@@ -58,9 +58,7 @@ url:"https://mediasv.online/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2
 {
 name:"TRUE EXPLORE WILD",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/",
-playInNatPlayer: "true"
+url:"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI="
 },
 {
 name:"BBC EARTH",
@@ -167,11 +165,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Lnrn0FdcTDJCeGfQ8
 url:"https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8",
     "referer": "https://www.doomovie-hd.com/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
-name:"TRUE EXPLORE WILD สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_B1FiHPCFMW2tyd_pLEkZHTQ22ikjNUFdbQ&usqp=CAU",
-url:"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI="
 },
 {
 name:"Asian Food Network สำรอง",
