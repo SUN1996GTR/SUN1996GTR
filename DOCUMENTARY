@@ -56,16 +56,16 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGjSVYKNMT2zEXhtWf9
 url:"https://mediasv.online/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0NjoxMiBQTSZoYXNoX3ZhbHVlPURTaUx0VmpiUUk0c09LN2FwVHJacmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjMmaWQ9Y2hfNDYzMDU="
 },
 {
-name:"TRUE EXPLORE WILD",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
-url:"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI="
-},
-{
 name:"BBC EARTH",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iNxl2zMVsDz8OMGHkdKClG1PsC2d-Ka_0Q&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8",
 "referer": "https://freetvdd.com/",
 playInNatPlayer: "true"
+},
+{
+name:"TRUE EXPLORE WILD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
+url:"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI="
 },
 {
 name:"NAT GEO WILD",
