@@ -46,7 +46,9 @@ url:"https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8?w
 {
 name:"History",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
-url:"https://mediasv.online/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0NjoxMiBQTSZoYXNoX3ZhbHVlPURTaUx0VmpiUUk0c09LN2FwVHJacmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjMmaWQ9Y2hfNDYzMDU="
+url:"https://streaming.livescorethai.net/iptv/hd-historyeng.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"History 2",
