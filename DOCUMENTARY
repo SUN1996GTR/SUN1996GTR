@@ -81,9 +81,9 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAIkIdQyue4LCpnQk9
 url:"https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx"
 },
 {
-name:"BBC Lifestyle",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9dacL8e4hKrF_OH91wV-RccOrrSCZB8rxw&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd"
+name:"OUTDOOR",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzDCv_5-6J41TBcMvLFJJwrKaYbaphFajVxw&usqp=CAU",
+url:"https://mediasv.online/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MzoxNiBQTSZoYXNoX3ZhbHVlPVJxRlZ4RVF2U2pHelNtdDRPdWhaM2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjMmaWQ9Y2hfNTA3MjY="
 },
 {  
 name:"ANIMAL",
