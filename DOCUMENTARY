@@ -15,7 +15,7 @@ url:"https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
 {
 name:"Love Nature",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd"
+url:"https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0OToyMiBQTSZoYXNoX3ZhbHVlPWR0OGgycFRjL01CaGlzYUMvY0UxK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjY1MTU="
 },
 {
 name:"Sumlojlok",
@@ -58,9 +58,7 @@ url:"https://mediasv.online/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmV
 {
 name:"BBC EARTH",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iNxl2zMVsDz8OMGHkdKClG1PsC2d-Ka_0Q&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/",
-playInNatPlayer: "true"
+url:"https://mediasv.online/stream_live/568_BBC_Earth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1MToxMyBQTSZoYXNoX3ZhbHVlPVhaWVhjeXM1US9pWVhQR0pCdkxDR2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfMTYzNDA="
 },
 {
 name:"TRUE EXPLORE WILD",
@@ -120,11 +118,6 @@ url:"https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"Love Nature สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Tv061sqYaxawaiNuYnbQ-k4S_1T8F1xrEA&usqp=CAU",
-url:"https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0OToyMiBQTSZoYXNoX3ZhbHVlPWR0OGgycFRjL01CaGlzYUMvY0UxK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjY1MTU="
-},
-{  
 name:"Sumlojok สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwuRbVdUrgoJd6R3FkE8_CtwJBOH3vUVAxQ&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC8/index.m3u8",
