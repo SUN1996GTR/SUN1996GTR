@@ -13,30 +13,22 @@ url:"http://ip2121.com:8081/web1/hbo/playlist.m3u8"
 {
 name:"HBO HITS",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hbohit#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd"
 },
 {
 name:"HBO SIGNATURE",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hbosignature#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd"
 },
 {
 name:"HBO FAMILY",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd"
 },
 {
 name:"CINEMAX",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/cinemax#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd"
 },
 {
 name:"Paramount",
@@ -180,6 +172,16 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054
 url:"https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5"
 },
 {
+name:"MONO PLUS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpLGDPDLfKxb9HKqCcPOB-FAqG__jMZJtxg&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd"
+},
+{
+name:"3BB Asian",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd"
+},
+{
 name:"AXN",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
 url:"https://mediasv.online/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMjoxMyBQTSZoYXNoX3ZhbHVlPXR0dzdoNHczVS9CcFlyTHM2UFRTV0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfMjM5Njc="
@@ -202,9 +204,52 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQd
 url:"https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx"
 },
 {
+name:"MONO MUSIC",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm4P4oPdjtxZ9GppTQjhIy-ivFTgxXpWW6g&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd"
+},
+{  
+name:"A lure channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6EIALl2vS_aY9L1X1gfDgE7QHEXJVhZJmw&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd"
+},
+{  
+name:"RUSH STORIES",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYrHO0BKlxdFooaj8vocKhdYd95VdaVp75w&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd"
+},
+{  
 name:"HBO สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGeBKR3Gbn27aOKYhL8tzo7ZSERA5Mi-KYg&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/hbohd#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+{
+name:"HBO HITS สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD6Vc_EINItbIPIMSs4rpLDkkaJWVGgDuUw&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/hbohit#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+{
+name:"HBO SIGNATURE สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyhylkMh12QLIYQue1RJB1rznESNif0AYTg&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/hbosignature#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+{
+name:"HBO FAMILY สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+{
+name:"CINEMAX สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VPojE0ckWMSW2_Ezf-DKzHeVfKLgEtxWAA&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/cinemax#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
 },
