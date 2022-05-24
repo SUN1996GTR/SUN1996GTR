@@ -34,9 +34,10 @@ url:"https://www.doofootball.com/dootv/live/discovery#main_dootv",
 {
 name:"Discovery Asia",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJxQqvZpQHNsPu-kYHVsSm_Y2Og6UJcekRA&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/",
-playInNatPlayer": "true"
+url:"https://youdooball.livedoomovies.com:4432/02_DiscoveryHDWorld/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"desktop": "true"
 },
 {
 name:"National Geographic",
