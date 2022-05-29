@@ -122,11 +122,6 @@ image:"https://www.dropbox.com/s/qeqd2ymbon57u5u/IMG_20210603_034035.png?dl=1",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
-name:"sanook",
-image:"https://www.dropbox.com/s/rx92n7jjorl8hsf/lVgd2n.png?dl=1",
-url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
-},
-{  
 name:"MOVIES WORLD",
 image:"https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
@@ -135,6 +130,11 @@ url:"https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent
 name:"CHANNEL 8",
 image:"http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",
 url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
+},
+{  
+name:"Mangorn",
+image:"https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/121/121.mpd"
 },
 {  
 name:"CTB",
