@@ -53,14 +53,14 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6
 url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd"
 },
 {
-name:"Animation World",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgx88SLFLFuXVeoDoXO0uwnZtjyPmSq6EOQ&usqp=CAU",
-url:"http://203.154.243.89:28010/pa/umi.ts"
-},
-{
 name:"Toonee",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCvAIHIA4GSnKQGojA3iIltAeQmIbK5_rDXw&usqp=CAU",
 url:"http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8"
+},
+{
+name:"Family Movies",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-WtKHccFKl40ezgswEzSPgPvVtyzAH4ejQ&usqp=CAU",
+url:"http://203.154.243.89:28010/pa/umi.ts"
 },
 {
 name:"Hbo Family",
@@ -68,6 +68,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbt
 url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd"
 },
 {
+name:"sanook",
+image:"https://www.dropbox.com/s/rx92n7jjorl8hsf/lVgd2n.png?dl=1",
+url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+},
+{ 
 name:"CONtv ANIME",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XcicAcpnZOsMIlRVbYII6BCAtuTDDD98hw&usqp=CAU",
 url:"https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8"
