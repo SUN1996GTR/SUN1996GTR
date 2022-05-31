@@ -122,14 +122,14 @@ image:"https://www.dropbox.com/s/qeqd2ymbon57u5u/IMG_20210603_034035.png?dl=1",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
-name:"MOVIES WORLD 1",
-image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
-url:"https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
-},
-{  
 name:"@TV",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",
 url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
+},
+{  
+name:"CTB",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",
+url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8"
 },
 {  
 name:"จอมยุทธ์",
@@ -140,11 +140,6 @@ url:"http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8"
 name:"มังกร",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAWRg7LH7xBHKgIzVjLemhMeWfM1LwKCJqQ&usqp=CAU",
 url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8"
-},
-{  
-name:"CTB",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",
-url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8"
 },
 {  
 name:"TVB",
