@@ -1,0 +1,151 @@
+{
+name:"NEWS",
+author:"SUN",
+"image": "https://uploads.turbologo.com/uploads/design/preview_image/1475872/preview_image20201021-12242-1jfx4bb.png",
+
+stations:[
+
+{
+name:"CNN",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaCLR_DO0gwUvJ2L2aVcjntIF9AFTWY649w&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/602/602.mpd"
+},
+{  
+name:"BBC NEWS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2aC0PGqvwKysgmJDJsEqPtpVnnVq8sg3EQ&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/601/601.mpd"
+},
+{ 
+name:"Bloomberg",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkL9rWPvi7PX27HDu2-Pl9bgWkV3MX548rRA&usqp=CAU",
+url:"https://www.bloomberg.com/media-manifest/streams/asia.m3u8"
+},
+{  
+name:"CNA",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKb7iX2XQ6aEhFD3E_xUGfw8qE26N6pC5GA&usqp=CAU",
+url:"http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+},
+{ 
+name:"ABC NEWS AUSTRALIA",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEllb6uT3K0FXqpmaoGX7RhIbKu91rzsqT3Q&usqp=CAU",
+url:"https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"
+},
+{  
+name:"ABC NEWS LIVE",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1cHAninwWtuht52vNido3VcYXxSwAxsoEg&usqp=CAU",
+url:"https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+},
+{ 
+name:"NHK WORLD JAPAN",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LXM1TrDh5Xo1DV2eHKO2FJ22oNYt6_9UjA&usqp=CAU",
+url:"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+},
+{  
+name:"Arirang TV",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNziIyJcwrglQlAskcL7x-ZnVqfClvFZx0uQ&usqp=CAU",
+url:"http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+},
+{ 
+name:"DW",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpwDPslxYHmyXxqhm5XvgiBKaFevGhOgGM0Q&usqp=CAU",
+url:"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8"
+},
+{ 
+name:"Sky News",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_xTz7R6T0Y7FTlYh1lvAGLKz2v0RgQ9Rew&usqp=CAU",
+url:"https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8",
+"playInNatPlayer": "true"
+},
+{  
+name:"AL JAZEERA",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUe1IhINUFAiLnHkxsfC9mSxPSoTHtrHOgg&usqp=CAU",
+url:"https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+},
+{  
+name:"TRT WORLD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYrIL6NsVEKqpqSYacyvxov0YhqDYcJVE-A&usqp=CAU",
+url:"https://tv-trtworld.live.trt.com.tr/master.m3u8"
+},
+{ 
+name:"CGTN",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQqbdfQsTXT4xWQsrfz6JtRwMzhUGcV4SO9Q&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/604/604.mpd"
+},
+{  
+name:"CCTV4",
+image:"https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/37_CCTV4.jpg",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/605/605.mpd"
+},
+{
+name:"AUSTRALIA CHANNEL",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdb1VQHLY3K0GB_IeoqwyygGXDlA2YajQAA&usqp=CAU",
+url:"https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8",
+"playInNatPlayer": "true"
+},
+{  
+name:"FOX SPORTS NEWS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIVmUG6h4O3AaiIsR08GsjAQzYCIyb59GUDw&usqp=CAU",
+url:"https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8","playInNatPlayer": "true"
+},
+{ 
+name:"CBC NEWS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4DtsG8p2GwNErumWQyGsbLvhvuzHfh2_Og&usqp=CAU",
+url:"http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{  
+name:"CNBC",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdNFgAkofbjB55tKpIpebMYiRNf7Pin5phQ&usqp=CAU",
+url:"https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8",
+"referer": "https://ustvgo.tv/"
+},
+{ 
+name:"news 24",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQ852Dn2fiPcfcQe8a7sS69EyE1JB8BXvhQ&usqp=CAU",
+url:"http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{  
+name:"NEWSMAX",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwGq0DtorebyLRom8wg7z9UBwkgYWNtWYWow&usqp=CAU",
+url:"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+"playInNatPlayer": "true"
+},
+{ 
+name:"NEWSY",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwENZtKSGqcpGomro2tSKzU4-DmaiVT47M-w&usqp=CAU",
+url:"https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb",
+"referer": "https://ustvgo.tv/"
+},
+{  
+name:"LIVE NOW FOX",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpS_SMrXPkAYFlXM9qX9DU7QDpTBiqj8FRuA&usqp=CAU",
+url:"https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+"referer": "https://ustvgo.tv/"
+},
+{ 
+name:"euro news",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7uUhoSYlFk3KjMQjZZHtH6CyOYHQuGXdBw&usqp=CAU",
+url:"https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+"referer": "https://ustvgo.tv/"
+},
+{  
+name:"CBS NEWS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPfDFw4g1i5uhSWP2Fkqj35C2y02Is4p9XA&usqp=CAU",
+url:"http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8",
+"playInNatPlayer": "true"
+},
+{ 
+name:"ARISE NEWS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYX8oP2jfb397L5U-jMAK-gP7WhFDsCqooLQ&usqp=CAU",
+url:"http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8",
+"referer": "https://ustvgo.tv/"
+},
+{  
+name:"92 NEWS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoLyy7GVUUWhqHZeViMaVDdhy8_i_Qu4nyg&usqp=CAU",
+url:"https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
+"referer": "https://ustvgo.tv/"
+},
+]
+}
