@@ -43,5 +43,11 @@
 "url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/GOOD%20TV",
 "import": false
 },
+{
+"name": "NEWS",
+"image": "https://uploads.turbologo.com/uploads/design/preview_image/1475872/preview_image20201021-12242-1jfx4bb.png",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/NEWS",
+"import": false
+},
 ]
 }
