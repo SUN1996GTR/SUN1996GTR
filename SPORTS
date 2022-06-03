@@ -149,7 +149,9 @@ url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd"
 {  
 name:"O CHANNEL",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2UNRnZegGYl3iUP815eUqq2Yd8fpU_o9LA&usqp=CAU",
-url:"https://etslive-2-vidio-com.akamaized.net/exp=1654268071~acl=/hls-p/ingest_206_*/*~hmac=908dcc2a2ab28b485c7101bb19bb5470ae5b09292631ad375a5ebfed9e093a1c/hls-p/ingest_206_720p/index.m3u8"
+url:"https://etslive-2-vidio-com.akamaized.net/exp=1654283608~acl=/hls-p/ingest_206_*/*~hmac=fb59b12d2e33856b5f6b04cc745d3e74e8afafe0cdd2bc3eafad4e92a88561df/hls-p/ingest_206_720p/index.m3u8",
+ "referer": "https://m.vidio.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {  
 name:"T Sports 7",
