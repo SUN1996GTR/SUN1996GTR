@@ -207,7 +207,7 @@ name:"TPTV สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc4Pce0qEnGmw31Ltmpelv6ZHefFF7XxHaGA&usqp=CAU",
 url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd"
 },
-{ 
+{
 name:"ALTV สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7aZkC0IGdTGhGdZzw8z5tJy_iDe6xCr9lA&usqp=CAU",
 url:"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
