@@ -125,17 +125,23 @@ url:"http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8"
 {
 name:"WORKPOINT สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjB0Vvi9eb3kX9AnphsXxpJYsuDTuMbaywg&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/23/23.mpd"
+url:"https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"MCOT HD สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCK_IJfCoXXsfTcyhTJ_fpHANqXSjE4nhTQ&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/30/30.mpd"
+url:"https://www.livedoomovies.com:4431/02_MCOTHD_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"ONE 31 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8hKixnP2LwmcmKF68Afj8bvePtP47K2F-rw&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/31/31.mpd"
+url:"https://www.livedoomovies.com:4431/02_GMMONE_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"THAIRATH สำรอง",
@@ -150,17 +156,23 @@ url:"http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8"
 {
 name:"AMARIN TV สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbRJhySb-3htwXAgkYFR5dzs7r0WY3iByNg&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/34/34.mpd"
+url:"https://www.livedoomovies.com:4431/02_AMARINHD_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"CH 8 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0K-FHY6c8qFv8fIX8mDHLYy-44q1if5INIQ&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd"
+url:"https://www.livedoomovies.com:4431/02_8HD_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"GMM25 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRkAM_9zGb2p7eC0twQ8BAv1f1Pjc_haLRMg&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd"
+url:"https://www.livedoomovies.com:4431/02_GMM_720p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"PPTV สำรอง",
@@ -170,7 +182,9 @@ url:"https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8"
 {
 name:"TRUE4U สำรอง",
 image:"https://siamrath.co.th/files/img/20170307/d764ec2fa55eb5bcbd8441087b59a7673230fece4715f9b93faf524f7f693d81.jpg",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24/24.mpd"
+url:"https://www.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"CH 5 สำรอง",
@@ -185,12 +199,16 @@ url:"https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 {
 name:"JKN 18 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4YCflIyiLdKDbEx1jU3wonimfTnzLfphJA&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/18/18.mpd"
+url:"https://www.livedoomovies.com:4431/02_JKN_480p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"T Sports 7 สำรอง",
 image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS69Thm99n6GynSG5HmbRf4o9zSg8tXJttSwR9kuid_esyJ9e8r",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd"
+url:"https://youdooball.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
+ "referer": "https://www.youdooball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"NBT สำรอง",
@@ -200,12 +218,14 @@ url:"http://freelive2.inwstream.com:1935/freelive-edge/nbt/playlist.m3u8"
 {
 name:"NATION สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8W7b84ELkfkei4jWWMULIBBnL1EX4G9UUw&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/22/22.mpd"
+url:"https://www.livedoomovies.com:4431/02_NATION_480p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"TPTV สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc4Pce0qEnGmw31Ltmpelv6ZHefFF7XxHaGA&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd"
+url:"http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8"
 },
 {
 name:"ALTV สำรอง",
