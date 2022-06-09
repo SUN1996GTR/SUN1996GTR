@@ -69,16 +69,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYrIL6NsVEKqpqSYac
 url:"https://tv-trtworld.live.trt.com.tr/master.m3u8"
 },
 { 
-name:"CGTN",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQqbdfQsTXT4xWQsrfz6JtRwMzhUGcV4SO9Q&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/604/604.mpd"
-},
-{  
-name:"CCTV4",
-image:"https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/37_CCTV4.jpg",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/605/605.mpd"
-},
-{
 name:"AUSTRALIA CHANNEL",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdb1VQHLY3K0GB_IeoqwyygGXDlA2YajQAA&usqp=CAU",
 url:"https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8",
