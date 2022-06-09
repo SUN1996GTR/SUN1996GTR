@@ -142,14 +142,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUpbkOSoMG_5JSsRAn
 url:"https://mediasv.online/stream_live/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6MzE6MzUgQU0maGFzaF92YWx1ZT1zb0dBcU41Zm9ndzhVTjk5QllTZldRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzE0MDEz"
 },
 {
-name:"3BB SPORTS 1",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6VBTC-UUGTXQS3wRurXvlecJKwsU9QBKNA&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd"
-},
-{  
 name:"T Sports 7",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd"
+url:"https://youdooball.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
+ "referer": "https://www.youdooball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"TRUE PREMIUM FOOTBALL 1 ชุด2",
@@ -241,8 +238,8 @@ url:"https://www.doofootball.com/dootv/live/truenba#main_dootv",
 {
 name:"T Sports 7 ชุด2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",
-url:"https://youdooball.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
- "referer": "https://www.youdooball.com/",
+url:"https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8",
+ "referer": "https://www.doomovie-hd.com/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
@@ -374,9 +371,9 @@ url:"https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8",
 {
 name:"T Sports 7 ชุด3",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHdhj8tfQ6jzaZM6WScoJRndUFVfnqmWWIg&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8",
- "referer": "https://www.doomovie-hd.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://www.doofootball.com/dootv/live/tsports#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
 },
 {
 name:"TRUE PREMIUM FOOTBALL 1 สำรอง",
@@ -459,13 +456,6 @@ url:"https://www.doofootball.com/dootv/live/truetennis#main_dootv",
 name:"GOLF CHANNEL สำรอง",
 image:"https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
 url:"https://www.doofootball.com/dootv/live/golfchannel#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"T Sports 7 สำรอง",
-image:"https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",
-url:"https://www.doofootball.com/dootv/live/tsports#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
 },
