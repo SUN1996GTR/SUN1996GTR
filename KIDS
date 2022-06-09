@@ -8,17 +8,7 @@ stations:[
 {
 name:"Cartoon Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/301/301.mpd"
-},
-{
-name:"Nickelodeon",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyTzSx0GdKViGVhrU8ULZaeh7snf4KpG4nA&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd"
-},
-{
-name:"Nick Jr",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmQJBUmxuL37CeWfRqUizzIasJhRvUA_oGg&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd"
+url:"https://mediasv.online/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1MjowOCBQTSZoYXNoX3ZhbHVlPTYzTHNUTSt0TVc4bjNoL2NQcytZV0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfNDE0OTI="
 },
 {
 name:"Aniplus",
@@ -50,7 +40,7 @@ url:"https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthS
 {  
 name:"Boomerang",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd"
+url:"http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25"
 },
 {
 name:"Toonee",
@@ -65,11 +55,13 @@ url:"http://203.154.243.89:28010/pa/umi.ts"
 {
 name:"Hbo Family",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd"
+url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
 },
 {
 name:"sanook",
-image:"https://www.dropbox.com/s/rx92n7jjorl8hsf/lVgd2n.png?dl=1",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuFIRZurVRaqEH1I2dQhPLqxJ31IYamkAA&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 { 
@@ -78,7 +70,7 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XcicAcpnZOsMIlRVb
 url:"https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8"
 },
 {  
-name:"Boomerang US",
+name:"BOOMERANG US",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwQroTrst8WJZ3vyQ-uzl4UNiqwHwhPJXiA&usqp=CAU",
 url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/302/302.mpd"
 },
@@ -88,18 +80,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVn9KAP1vCPO3MdLBCD
 url:"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
 },
 {
-name:"Cartoon Network สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLi21-O1RJl7pthRLaY0VuZkD0KDX3iPTdg&usqp=CAU",
-url:"https://mediasv.online/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1MjowOCBQTSZoYXNoX3ZhbHVlPTYzTHNUTSt0TVc4bjNoL2NQcytZV0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfNDE0OTI="
-},
-{  
-name:"Boomerang สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT846DjAbM8Qv8qinGwyTY7RuSdYIA7mW3mww&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8",
-"referer": "https://freetvdd.com/",
-playInNatPlayer: "true"
-},
-{  
 name:"Spark Jump สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZoRGbGOl_URL39FstW9hworWFB2Rw2dl1A&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
@@ -107,11 +87,11 @@ url:"https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
 "playInNatPlayer": "true"
 },
 {
-name:"Hbo Family สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+name:"Boomerang สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT846DjAbM8Qv8qinGwyTY7RuSdYIA7mW3mww&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 ]
 }
