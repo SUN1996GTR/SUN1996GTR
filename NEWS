@@ -13,9 +13,7 @@ url:"http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
 { 
 name:"CNN",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaCLR_DO0gwUvJ2L2aVcjntIF9AFTWY649w&usqp=CAU",
-url:"https://ustvgo.tv/cnn-live-streaming-free/",
-"referer": "https://ustvgo.tv", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
+url:"https://mediasv.online/stream_live/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDIyIDI6MTg6MjQgUE0maGFzaF92YWx1ZT0rVXE5N2JRdmZoN1puWWdlaHRIMm93PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzg3MDgz"
 },
 {  
 name:"Bloomberg",
