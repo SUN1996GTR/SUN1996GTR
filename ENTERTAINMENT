@@ -106,13 +106,27 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9Qq0Fc_g4qUlOGLzy
 url:"http://freelive2.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8"
 },
 {
+name:"ID STATION",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJNny48v3IWKijeDtY_TV0Hv7usnJBy7gxpg&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/trueidstation#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+{
 name:"UNIVERSAL",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",
 url:"http://203.154.243.89:28010/pa/universal.ts"
 },
 { 
-name:"Hits Movie",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0n5q5necIkYIxUzbxS3Ez65Innjj50imzg&usqp=CAU",
+name:"HITS",
+image:"https://www.infotelevisi.com/asset/images/tv/hits_tv.jpg",
+url:"https://www.doofootball.com/dootv/live/hits#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+{
+name:"HITS MOVIE",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbIXrZ6dSiWIIBnCyP9TYigXV55s5j6C1Cg&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
@@ -168,6 +182,16 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0aHjGU-gfJUIy_FBP
 url:"https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDo0OSBQTSZoYXNoX3ZhbHVlPTFndXJXdEpZT1E0NytNbkw1QXJaVEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTY3MTU="
 },
 {
+name:"TVB ไทย",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",
+url:"https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8"
+},
+{  
+name:"MVtv ซีรีส์",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgB-y9aQpihK_u8ud_m5swPtWaHYs8Ir3Wg&usqp=CAU",
+url:"https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/chunklist_w1956178634.m3u8"
+},
+{  
 name:"Kbs World",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",
 url:"https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5"
@@ -196,6 +220,16 @@ url:"https://moviektu.com/Cool/playlist.m3u8"
 name:"CHANNEL 8",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVDFBlSqT7CvwUYCBpZ8xutmIxsNH680C3Q&usqp=CAU",
 url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
+},
+{  
+name:"ถิ่นใต้",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4OnZE5nQtzQ08fvjPB09tSjg1LrmhKd_hIg&usqp=CAU",
+url:"http://freelive2.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8"
+},
+{
+name:"ฟาร์มทีวี",
+image:"https://www.voiceoffarmer.net/wp-content/uploads/2021/10/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5-HD%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.png",
+url:"http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8"
 },
 {  
 name:"AXN",
