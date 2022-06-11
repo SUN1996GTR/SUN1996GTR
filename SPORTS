@@ -142,6 +142,13 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUpbkOSoMG_5JSsRAn
 url:"https://mediasv.online/stream_live/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6MzE6MzUgQU0maGFzaF92YWx1ZT1zb0dBcU41Zm9ndzhVTjk5QllTZldRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzE0MDEz"
 },
 {
+name:"ID STATION",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJNny48v3IWKijeDtY_TV0Hv7usnJBy7gxpg&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/trueidstation#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+{
 name:"T Sports 7",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",
 url:"https://youdooball.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
