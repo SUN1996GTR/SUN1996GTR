@@ -7,7 +7,7 @@ stations:[
 
 {
 name:"Animal Planet",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaTeiItZzavABzSdF4p5w2OP7ULqkvv0-xw&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
@@ -26,7 +26,7 @@ url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
 },
 {
 name:"Discovery",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6gMQaAt5dfPwpx0ePojcK41Rd27MTYXDZxw&usqp=CAU",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe78brK5kEy6Pc1G3EYn4xhrc7yAQZqMbWGA&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/discovery#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
@@ -41,7 +41,7 @@ url:"https://youdooball.livedoomovies.com:4432/02_DiscoveryHDWorld/chunklist.m3u
 },
 {
 name:"National Geographic",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNZFpMWynbl3M_AlHqXAwmXRRxGDXjH4GmQ&usqp=CAU",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE447q1BT7O2xsVoBvVJT6P_6oYMNonncy4w&usqp=CAU",
 url:"https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0ODo0NSBQTSZoYXNoX3ZhbHVlPUZBaHVsNUJXeVgxbTQ5RTh3VDA5UWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzYmaWQ9Y2hfODg0MTM="
 },
 {
@@ -102,6 +102,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJGgIGh5rnNjZS6QoX
 url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
 },
 {  
+name:"TRUE EXPLORE SCI",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw7IiO9w8-oZyCp282iOIuwvUnvmdOmTlhaA&usqp=CAU",
+url:"http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115660"
+},
+{ 
 name:"Animal Planet สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",
 url:"https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8",
@@ -130,7 +135,7 @@ url:"https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
 },
 {
 name:"National Geographic สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqp9-ubV3t87pLgZ8G6Bh4itMa-V5GMk-Og&usqp=CAU",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3veR1JShUQMyrlxYkwRZcS0qLIY5P5c89Q&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/natgeo#main_dootv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "playInNatPlayer": "true"
@@ -165,6 +170,11 @@ url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
  "playInNatPlayer": "true"
 },
 {
+name:"Discovery สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48nOL4Y-16iJEeMHw9Cngjm_TNbfJwgMs3A&usqp=CAU",
+url:"http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115652"
+},
+{ 
 name:"Discovery Asia สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h3uypIk0fQQmXyWKxNJJHAEmFbVGv6LNGQ&usqp=CAU",
 url:"https://www.livedoomovies.com:4431/02_DiscoveryHDWorld/chunklist.m3u8",
