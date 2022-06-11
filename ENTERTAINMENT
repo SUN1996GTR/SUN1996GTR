@@ -106,18 +106,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9Qq0Fc_g4qUlOGLzy
 url:"http://freelive2.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8"
 },
 {
-name:"ID STATION",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJNny48v3IWKijeDtY_TV0Hv7usnJBy7gxpg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/trueidstation#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-name:"UNIVERSAL",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",
-url:"http://203.154.243.89:28010/pa/universal.ts"
-},
-{ 
 name:"HITS",
 image:"https://www.infotelevisi.com/asset/images/tv/hits_tv.jpg",
 url:"https://www.doofootball.com/dootv/live/hits#main_dootv",
@@ -132,6 +120,16 @@ url:"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
 "playInNatPlayer": "true"
 },
 {
+name:"UNIVERSAL",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",
+url:"http://203.154.243.89:28010/pa/universal.ts"
+},
+{ 
+name:"MOVIES WORLD 1",
+image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
+url:"https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+},
+{  
 name:"SUN",
 image:"https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
