@@ -145,18 +145,13 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBs
 url:"http://203.154.243.89:28010/pa/universal.ts"
 },
 { 
-name:"MOVIES WORLD 1",
-image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
-url:"https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
-},
-{  
 name:"SUN",
-image:"https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7CVw_AElT-ptYC6QNhrGvL7LyxJ79uXjfA&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
 name:"SAMURAI",
-image:"https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpwE0o80KpM2ja6DjqdrokkcULpGBTL_27g&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
@@ -164,7 +159,12 @@ name:"BOX FILM",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZoRQHoeJIhxHiX0yPQJguGEa4gOKTQ0HuA&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
-{  
+{ 
+name:"@TV",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",
+url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
+},
+{ 
 name:"CTB",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8OGM66fyZZ9Hi6nuqzxdSj3AsFqEn8MTNw&usqp=CAU",
 url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8"
@@ -194,12 +194,12 @@ name:"GO LIVE",
 image:"https://thaitvstream.com/streaming/gochannel/gochannel.png",
 url:"https://live1.thaitvstream.com/play/gochannel/index.m3u8"
 },
-{  
-name:"@TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",
-url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
-},
 { 
+name:"CHANNEL 8",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVDFBlSqT7CvwUYCBpZ8xutmIxsNH680C3Q&usqp=CAU",
+url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
+},
+{  
 name:"Kbs World",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",
 url:"https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5"
@@ -232,9 +232,9 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReV_OeD2g-2wg-jmHoK
 url:"https://moviektu.com/Cool/playlist.m3u8"
 },
 {  
-name:"CHANNEL 8",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVDFBlSqT7CvwUYCBpZ8xutmIxsNH680C3Q&usqp=CAU",
-url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
+name:"MOVIES WORLD 1",
+image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
+url:"https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
 name:"AXN",
