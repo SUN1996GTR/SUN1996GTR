@@ -72,21 +72,9 @@ url:"https://streaming.livescorethai.net/iptv/sd-nickelodeoneng.stream/playlist.
 playInNatPlayer: "true"
 },
 {
-name:"CARTOONINTO",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJkJCx6cOF_wn7xulL_2RDlzzt1NyTaHQ79g&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/uk-cartoonito.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/",
-playInNatPlayer: "true"
-},
-{  
 name:"CONtv ANIME",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XcicAcpnZOsMIlRVbYII6BCAtuTDDD98hw&usqp=CAU",
 url:"https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8"
-},
-{  
-name:"BOOMERANG ENG",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwQroTrst8WJZ3vyQ-uzl4UNiqwHwhPJXiA&usqp=CAU",
-url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/302/302.mpd"
 },
 {  
 name:"PBS Kids",
