@@ -102,11 +102,13 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJGgIGh5rnNjZS6QoX
 url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
 },
 {  
-name:"TRUE EXPLORE SCI",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw7IiO9w8-oZyCp282iOIuwvUnvmdOmTlhaA&usqp=CAU",
-url:"http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115660"
+name:"TLC",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLTfqq381cBD6yKQKWlfkMu_K_-HHGbJ33Q&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-tlceng.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
-{ 
+{
 name:"Animal Planet สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",
 url:"https://youdooball.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8",
