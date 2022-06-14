@@ -69,7 +69,7 @@ url:"https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSi
 {  
 name:"True Korean More",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",
-url:"http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115675"
+url:"https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NDoxNCBQTSZoYXNoX3ZhbHVlPXBleDRmT0hXNS8zMUQzbmV4MWVSNkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfMjYwNzI="
 },
 { 
 name:"True Thai Film",
@@ -215,26 +215,6 @@ playInNatPlayer: "true"
 name:"Mix Major Channel",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz0cPOdp92BKRc3EbrfXRX9IZMIcWrd75Bw&usqp=CAU",
 url:"https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8"
-},
-{  
-name:"ถิ่นใต้",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4OnZE5nQtzQ08fvjPB09tSjg1LrmhKd_hIg&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8"
-},
-{
-name:"ฟาร์มทีวี",
-image:"https://www.voiceoffarmer.net/wp-content/uploads/2021/10/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5-HD%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.png",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8"
-},
-{ 
-name:"COOL CHANNEL",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReV_OeD2g-2wg-jmHoKM7Z2tsQ3c_-dTs8Og&usqp=CAU",
-url:"https://moviektu.com/Cool/playlist.m3u8"
-},
-{  
-name:"MOVIES WORLD 1",
-image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
-url:"https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
 name:"AXN",
