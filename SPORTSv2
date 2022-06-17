@@ -221,12 +221,12 @@ url:"https://mediasv.online/stream_live/686_TSP7/playlist.m3u8?wmsAuthSign=c2Vyd
 {
 name:"SPOTV 1 ชุด2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU",
-url:"http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115427"
+url:"https://embed.dooball66.com/player.php?channel=	hd-spotv	&api_key=hmcb4rf66f",	"referer":"https://dooball66.com/",	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	"desktop": "true"
 },
 {
 name:"SPOTV 2 ชุด2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQhMcIDlc0D50DGWwJT3MBRL16E5hu2vmxg&usqp=CAU",
-url:"http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115433"
+url:"https://embed.dooball66.com/player.php?channel=	hd-spotv2	&api_key=hmcb4rf66f",	"referer":"https://dooball66.com/",	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 	"desktop": "true"
 },
 {
 name:"TRUE TENNIS ชุด2",
