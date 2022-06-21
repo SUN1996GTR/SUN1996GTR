@@ -1,5 +1,5 @@
 {
-name:"NEWS",
+name:"NEWS INTER",
 author:"SUN",
 "image": "https://uploads.turbologo.com/uploads/design/preview_image/1475872/preview_image20201021-12242-1jfx4bb.png",
 
@@ -13,7 +13,9 @@ url:"http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
 { 
 name:"CNN",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaCLR_DO0gwUvJ2L2aVcjntIF9AFTWY649w&usqp=CAU",
-url:"https://mediasv.online/stream_live/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDIyIDI6MTg6MjQgUE0maGFzaF92YWx1ZT0rVXE5N2JRdmZoN1puWWdlaHRIMm93PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzg3MDgz"
+url:"https://ustvgo.tv/cnn-live-streaming-free/",
+"referer": "https://ustvgo.tv", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
 },
 {  
 name:"Bloomberg",
@@ -51,6 +53,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpwDPslxYHmyXxqhm5X
 url:"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8"
 },
 { 
+name:"CGTN",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUuf9ljHcQOad5bVad5U7qmYucpD7eUe0gg&usqp=CAU",
+url:"https://live.cgtn.com/1000/prog_index.m3u8"
+},
+{  
 name:"Sky News",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_xTz7R6T0Y7FTlYh1lvAGLKz2v0RgQ9Rew&usqp=CAU",
 url:"https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8",
@@ -132,6 +139,11 @@ url:"http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-1
 "referer": "https://ustvgo.tv/"
 },
 {  
+name:"METRO TV",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHEeyikmjRpXZ6ihVkJShhL1rVzZ7SE6dNQ&usqp=CAU",
+url:"http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8"
+},
+{ 
 name:"92 NEWS",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoLyy7GVUUWhqHZeViMaVDdhy8_i_Qu4nyg&usqp=CAU",
 url:"https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
