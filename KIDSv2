@@ -6,6 +6,11 @@ author:"SUN",
 stations:[
 
 {
+name:"Cartoon Network",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
+url:"https://mediasv.online/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6MTE6MjMgUE0maGFzaF92YWx1ZT04OUphby9OZjFFTi9VckcvRFZHelhBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzYzMzMy"
+},
+{
 name:"Aniplus",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
@@ -15,9 +20,7 @@ url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
 {
 name:"SparkJump",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"https://mediasv.online/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6NDA6MzEgUE0maGFzaF92YWx1ZT04dUo1Lzk3MWJETW9nZG5xVTBYYnFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzkyNTcx"
 },
 {
 name:"Cartoon Club",
@@ -68,6 +71,13 @@ url:"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
 name:"zoomoo",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSj9wLvlafCxHPMOO6jpUrjtOlCS2cxs-sA&usqp=CAU",
 url:"https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+},
+{
+name:"SparkJump สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
 },
 ]
 }
