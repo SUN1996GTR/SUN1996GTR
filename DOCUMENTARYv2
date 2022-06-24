@@ -62,16 +62,12 @@ url:"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSig
 {
 name:"TRUE EXPLORE SCI",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Qlw65KKrmTjsa5WwZ60MTACvtOxZie9Csg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/truesci#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"https://mediasv.online/stream_live/TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDk6MTM6MzQgQU0maGFzaF92YWx1ZT1TanlGamQ3MVVDdGZENStwaTlINXZBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzM4Mjky"
 },
 {  
 name:"TRUE EXPLORE LIFE",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCMDnqPWEHP5K2IFSRVC_57ElYq3v8GUohg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/truelife#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+url:"https://mediasv.online/stream_live/TRUE_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDk6MTM6MDAgQU0maGFzaF92YWx1ZT1hQmFwUUR4MXJ5U3JBWVZjSnJaUGJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzQzMjkw"
 },
 { 
 name:"NAT GEO WILD",
