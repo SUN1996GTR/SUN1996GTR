@@ -8,24 +8,28 @@ stations:[
 {
 name:"Cartoon Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
-url:"https://mediasv.online/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6MTE6MjMgUE0maGFzaF92YWx1ZT04OUphby9OZjFFTi9VckcvRFZHelhBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI5JmlkPWNoXzYzMzMy"
+url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
+"referer": "https://freetvdd.com",
+playInNatPlayer: "true"
 },
 {
 name:"Aniplus",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"SparkJump",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",
-url:"https://mediasv.online/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6NDA6MzEgUE0maGFzaF92YWx1ZT04dUo1Lzk3MWJETW9nZG5xVTBYYnFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI1JmlkPWNoXzkyNTcx"
+url:"https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"Cartoon Club",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcoJhDLdj7kZ5z0GRIymGlMCDJBc42tulkQ&usqp=CAU",
-url:"https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8"
+url:"https://edge1-bkk.3bb.co.th:9443/Alter_CartoonClub_Live/CartoonClub_Alter.stream/playlist.m3u8"
 },
 {
 name:"FwToon",
@@ -35,7 +39,8 @@ url:"http://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/pla
 {
 name:"Boomerang",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
-url:"http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25"
+url:"https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
 },
 {
 name:"Toonee",
@@ -53,6 +58,13 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuFIRZurVRaqEH1I2
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 { 
+name:"HBO FAMILY",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
 name:"Nick Jr Pluto",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcyhWeejb5IWopxAL1MNIB3sGAegQOmYJ_g&usqp=CAU",
 url:"https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8"
@@ -71,13 +83,6 @@ url:"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
 name:"zoomoo",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSj9wLvlafCxHPMOO6jpUrjtOlCS2cxs-sA&usqp=CAU",
 url:"https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
-},
-{
-name:"SparkJump สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
+}
 ]
 }
