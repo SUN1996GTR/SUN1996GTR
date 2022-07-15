@@ -63,8 +63,8 @@ playInNatPlayer: "true"
 name:"ทรูปลูกปัญญา",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXmoVPffwBbbuTvvT_RdWwnUpqXITVVkuBA&usqp=CAU",
 url:"http://www.trueplookpanya.com/tv/",
-"referer": "https://www.trueplookpanya.com",
-playInNatPlayer: "true"
+ "referer": "http://www.trueplookpanya.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"BBC EARTH",
