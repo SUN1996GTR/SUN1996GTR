@@ -63,6 +63,7 @@ playInNatPlayer: "true"
 name:"ทรูปลูกปัญญา",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXmoVPffwBbbuTvvT_RdWwnUpqXITVVkuBA&usqp=CAU",
 url:"http://www.trueplookpanya.com/tv/",
+"referer": "https://www.trueplookpanya.com",
 playInNatPlayer: "true"
 },
 {
