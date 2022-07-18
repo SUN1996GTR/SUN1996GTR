@@ -1,6 +1,6 @@
 {
 name:"ENTERTAINMENT",
-author:"SUN",
+author:"GTR",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-Hg04bRcxnfLrtvZkWQX5qac9ZgafZblw&usqp=CAU",
 
 stations:[
@@ -229,26 +229,66 @@ image:"https://thaitvstream.com/streaming/gochannel/gochannel.png",
 url:"https://live1.thaitvstream.com/play/gochannel/index.m3u8"
 },
 { 
+name:"@TV",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",
+url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
+},
+{
+name:"CINEMA 1",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzwguuA5j16SzL5XenC7j5PmKAKUudgFUmw&usqp=CAU",
+url:"http://203.154.243.89:28010/pa/hchannel.ts"
+},
+{  
+name:"STAR MOVIES",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW0DgmuBPD53WGfW3XItyhucS0ArqbGKsDVA&usqp=CAU",
+url:"http://203.154.243.89:28007/mss/izaa"
+},
+{ 
+name:"PING",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycyqEkh-i5Yv_JNvsWzXm4-1ScPH4lvSfZg&usqp=CAU",
+url:"http://203.154.243.89:28010/pa/ping.ts"
+},
+{  
+name:"U series",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqP2HEiy7D2EfRVFUfEhMdtMAPRqY0RT5CYA&usqp=CAU",
+url:"http://203.154.243.89:28007/mss/series"
+},
+{ 
 name:"CHANNEL 8",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVDFBlSqT7CvwUYCBpZ8xutmIxsNH680C3Q&usqp=CAU",
 url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
 },
 {  
+name:"MTVHD",
+image:"https://thaitvstream.com/streaming/medianews/medianews.png",
+url:"https://live1.thaitvstream.com/play/medianews/index.m3u8"
+},
+{ 
 name:"Mix Major Channel",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz0cPOdp92BKRc3EbrfXRX9IZMIcWrd75Bw&usqp=CAU",
 url:"https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8"
 },
 {  
-name:"PHET TV",
-image:"https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",
-url:"https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8"
+name:"MOVIES WORLD 1",
+image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
+url:"https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+},
+{  
+name:"COOL CHANNEL",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReV_OeD2g-2wg-jmHoKM7Z2tsQ3c_-dTs8Og&usqp=CAU",
+url:"https://moviektu.com/Cool/playlist.m3u8"
 },
 {
-name:"@TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",
-url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
+name:"CHIANGRAI CHANNEL",
+image:"https://thaitvstream.com/streaming/chiangrai/chiangrai.png",
+url:"https://live.thaitvstream.com/play/chiangrai/index.m3u8"
 },
-{ 
+{  
+name:"Topline tv",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HmX5oTHY_qUhSLPIm1wqEJuXfHYbR6ZnZg&usqp=CAU",
+url:"https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8"
+},
+{
 name:"HBO สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGeBKR3Gbn27aOKYhL8tzo7ZSERA5Mi-KYg&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/hbohd#main_dootv",
