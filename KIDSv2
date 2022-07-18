@@ -1,17 +1,10 @@
 {
 name:"KIDS",
-author:"SUN",
+author:"GTR",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
 
 stations:[
 
-{
-name:"Cartoon Network",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
-"referer": "https://freetvdd.com",
-playInNatPlayer: "true"
-},
 {
 name:"Aniplus",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",
@@ -65,6 +58,66 @@ url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
+name:"ANIMAX",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW04KcEeq477eHd9ZUZtTWdJ7Gl-1m5gSIMA&usqp=CAU",
+url:"http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{  
+name:"LEGO Channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcREZ3Me9anB_t0h7kdrPMCBAlyW-t9r-jPA&usqp=CAU",
+url:"https://legochannel-roku.amagi.tv/playlist.m3u8"
+},
+{  
+name:"Disney Junior",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzSEIQUWjVdGe0v_TlKikauGHcuIXpgISMA&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=DisneyJr",
+"referer": "https://ustvgo.tv/disneyjr/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Disney Channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3prW0ozJ7ZF_8P7-GaszuqPPg5WSRxU_AQ&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=Disney",
+"referer": "https://ustvgo.tv/disney-channel-live-streaming-free/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Disney XD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLtWAYs-Q_LsDTYb81w-CYA6H_LX1VvWVeA&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=DisneyXD",
+"referer": "https://ustvgo.tv/disneyxd/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Cartoon Network",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=CN",
+"referer": "https://ustvgo.tv/cartoon-network/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Boomerang US",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZkCf7KQbsRewV2dE1MPcYKs9WYCZESaXcg&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=Boomerang",
+"referer": "https://ustvgo.tv/boomerang/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Nicktoons",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyN2HsDqIWtMXAPVvUdX7pXRlVyXgibGEcew&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=Nicktoons",
+"referer": "https://ustvgo.tv/nicktoons/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Nickelodeon",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyTzSx0GdKViGVhrU8ULZaeh7snf4KpG4nA&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=Nickelodeon",
+"referer": "https://ustvgo.tv/nickelodeon-live-streaming-free/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
 name:"Nick Jr Pluto",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcyhWeejb5IWopxAL1MNIB3sGAegQOmYJ_g&usqp=CAU",
 url:"https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8"
