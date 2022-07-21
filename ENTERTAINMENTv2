@@ -43,8 +43,9 @@ url:"https://www.doofootball.com/dootv/live/cinemax#main_dootv",
 {
 name:"WARNER TV",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"True Movie His",
@@ -56,8 +57,9 @@ url:"https://www.doofootball.com/dootv/live/moviehits#main_dootv",
 {
 name:"True Film 1",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 { 
 name:"True Film 2",
@@ -87,20 +89,23 @@ url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-koreanmore&api
 { 
 name:"True Thai Film",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"True Series",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"True Xzyte",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"tvN",
@@ -117,16 +122,32 @@ url:"https://www.doofootball.com/dootv/live/gem#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
+name:"TVB",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcp2DPNG2tcHYE6RTBZMmnK_HtCr5UN1KnQ&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
+},
+{  
 name:"Kbs World",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-kbsworld&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://streaming.livescorethai.net/iptv/hd-kbsworld.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
+name:"True Inside",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9TvPI97LViG3o5rnwhdxswNIVm92yLG2ZA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-inside.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
+},
+{  
 name:"Lifetime",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"Food Network",
@@ -150,10 +171,9 @@ url:"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"AXN",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/axn#main_dootv",
- "referer": "https://www.doofootball.com/",
+name:"Rock Entertainment",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppGXAVxFcNXR30eEOO17XCyu3H6m6Dxn3Lg&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/blueant#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
@@ -166,9 +186,9 @@ url:"https://www.doofootball.com/dootv/live/blueantextream#main_dootv",
 {
 name:"AXN",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/axn#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 {
 name:"UNIVERSAL",
@@ -216,7 +236,7 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAWRg7LH7xBHKgIzVj
 url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8"
 },
 {  
-name:"TVB ไทย",
+name:"tvb ไทย",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5jIlD89Lzt1yUUho9-EuasDFBD8N6t-u7A&usqp=CAU",
 url:"https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8"
 },
@@ -319,8 +339,9 @@ url:"https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunkl
 {
 name:"AXN สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://www.doofootball.com/dootv/live/axn#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 ]
 }
