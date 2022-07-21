@@ -6,11 +6,18 @@ author:"GTR",
 stations:[
 
 {
+name:"Cartoon Network",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
+},
+{  
 name:"Aniplus",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://aisplay.ais.co.th/portal/live?vid=5be2f92ebf6aee07248a5069",
+"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+"isHost": true
 },
 {
 name:"SparkJump",
@@ -30,7 +37,7 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHa8sb2sv2-GpYNxyO
 url:"http://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8"
 },
 {
-name:"Boomerang",
+name:"Boomerang TH",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
@@ -90,14 +97,7 @@ url:"https://ustvgo.tv/player.php?stream=DisneyXD",
 "playInNatPlayer": "embed"
 },
 {  
-name:"Cartoon Network",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
-url:"https://ustvgo.tv/player.php?stream=CN",
-"referer": "https://ustvgo.tv/cartoon-network/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
-},
-{  
-name:"Boomerang US",
+name:"Boomerang",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZkCf7KQbsRewV2dE1MPcYKs9WYCZESaXcg&usqp=CAU",
 url:"https://ustvgo.tv/player.php?stream=Boomerang",
 "referer": "https://ustvgo.tv/boomerang/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
