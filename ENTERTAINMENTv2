@@ -41,6 +41,11 @@ url:"https://www.doofootball.com/dootv/live/cinemax#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
+name:"Paramount",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthBgkyHvR3UoAALXugrhmu6Q4Qo-PQo_E8w&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/paramount#main_dootv"
+},
+{
 name:"WARNER TV",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8",
@@ -64,27 +69,37 @@ playInNatPlayer: "true"
 { 
 name:"True Film 2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIg4ngK-82fYF0uEPUy52RrZpITwLlm9wyOw&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://www.doofootball.com/dootv/live/truefilmhd2#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
+name:"True Film Asia",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/truefilmasia#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{  
 name:"True Chinese More",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://www.doofootball.com/dootv/live/chainesemore#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"True Asian More",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ilh8YE_tDYYb-yxhPIeXlgDze1hYdCyP7Q&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-
+url:"https://www.doofootball.com/dootv/live/asianseries#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {  
 name:"True Korean More",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://www.doofootball.com/dootv/live/koreanmore#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 { 
 name:"True Thai Film",
@@ -122,6 +137,13 @@ url:"https://www.doofootball.com/dootv/live/gem#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
+name:"3BB Asian",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F5nlb1-dCVsYYkj9ERFyKyprKn3xVxtSng&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/3bbasian#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
 name:"TVB",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcp2DPNG2tcHYE6RTBZMmnK_HtCr5UN1KnQ&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8",
@@ -129,6 +151,11 @@ url:"https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8",
 playInNatPlayer: "true"
 },
 {  
+name:"CCM",
+image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw-KzD_bLUExn8SfXuClJ36PWkjxM190K9kpeGx965ACbITSWg",
+url:"http://45.126.83.51/qwr9ew/s/s31/01.m3u8"
+},
+{
 name:"Kbs World",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/hd-kbsworld.stream/playlist.m3u8",
