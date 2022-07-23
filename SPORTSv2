@@ -144,6 +144,13 @@ url:"https://www.ochanneltv.com/",
 playInNatPlayer: "true"
 },
 {  
+name:"3BB SPORTS 1",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6VBTC-UUGTXQS3wRurXvlecJKwsU9QBKNA&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/3bbsport#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{  
 name:"AIS PLAY STADIUM",
 image:"https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/94812452.backdrop.SD.jpg",
 url:"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
