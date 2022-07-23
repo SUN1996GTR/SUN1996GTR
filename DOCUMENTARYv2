@@ -15,7 +15,9 @@ url:"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
 {
 name:"Love Nature",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",
-url:"http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"
+url:"https://www.doofootball.com/dootv/live/lovenature4k#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"Sumlojlok",
@@ -113,6 +115,20 @@ image:"https://sv1.picz.in.th/images/2022/04/04/8ijG4f.png",
 url:"http://203.154.243.89:28010/pa/sci.ts"
 },
 {  
+name:"fashiontv",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7aG0e10cyRYtYQn1elAOiQw2hVJNhAqUzQ&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/fashiontv#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{  
+name:"TLC",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLTfqq381cBD6yKQKWlfkMu_K_-HHGbJ33Q&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/tlc#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{ 
 name:"Discovery Turbo",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj23A-PM7AJvgfmHZs-i6IdkRl0stw4shYw&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/playlist.m3u8",
