@@ -15,9 +15,9 @@ playInNatPlayer: "true"
 {  
 name:"Aniplus",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",
-url:"https://aisplay.ais.co.th/portal/live?vid=5be2f92ebf6aee07248a5069",
-"userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
-"isHost": true
+url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"SparkJump",
