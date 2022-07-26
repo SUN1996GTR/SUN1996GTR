@@ -175,21 +175,24 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=h
 {
 name:"Discovery Asia สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVSLXxul2rmqhsSo3KSf6OzZUyt0TUkm_DQ&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"National Geographic สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3veR1JShUQMyrlxYkwRZcS0qLIY5P5c89Q&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://www.doofootball.com/dootv/live/natgeo#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"History สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU",
 url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://www.doofootball.com/dootv/live/history#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"History 2 สำรอง",
