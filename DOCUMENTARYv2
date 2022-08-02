@@ -105,16 +105,6 @@ url:"https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/playlist.m
 playInNatPlayer: "true"
 },
 {
-name:"ANIMAL",
-image:"https://sv1.picz.in.th/images/2022/04/04/8ioRSt.png",
-url:"http://203.154.243.89:28010/pa/animal.ts"
-},
-{  
-name:"SCIENCE",
-image:"https://sv1.picz.in.th/images/2022/04/04/8ijG4f.png",
-url:"http://203.154.243.89:28010/pa/sci.ts"
-},
-{  
 name:"fashiontv",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7aG0e10cyRYtYQn1elAOiQw2hVJNhAqUzQ&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/fashiontv#main_dootv",
