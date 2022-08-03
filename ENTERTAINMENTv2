@@ -218,11 +218,11 @@ url:"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8",
 playInNatPlayer: "true"
 },
 {
-name:"UNIVERSAL",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOpafHNb-8t1u8NeBsUGajVE-MjLvrdrJ8w&usqp=CAU",
-url:"http://203.154.243.89:28010/pa/universal.ts"
+name:"NK TV",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",
+url:"http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8"
 },
-{ 
+{
 name:"FwMov",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",
 url:"http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8"
@@ -273,16 +273,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgB-y9aQpihK_u8ud_
 url:"https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/chunklist_w1956178634.m3u8"
 },
 {  
-name:"GO LIVE",
-image:"https://thaitvstream.com/streaming/gochannel/gochannel.png",
-url:"https://live1.thaitvstream.com/play/gochannel/index.m3u8"
-},
-{ 
-name:"NK TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",
-url:"http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8"
-},
-{
 name:"@TV",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKEUig3_39b8mmjPJlbA&usqp=CAU",
 url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
