@@ -153,7 +153,7 @@ playInNatPlayer: "true"
 {  
 name:"CCM",
 image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw-KzD_bLUExn8SfXuClJ36PWkjxM190K9kpeGx965ACbITSWg",
-url:"http://45.126.83.51/qwr9ew/s/s31/01.m3u8"
+url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115636&extension=ts&play_token"
 },
 {
 name:"Kbs World",
