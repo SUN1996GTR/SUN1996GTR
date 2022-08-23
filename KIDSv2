@@ -1,247 +1,148 @@
 {
-name:"DIGITAL TV",
-author:"SUN",
-"image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+name:"KIDS",
+author:"GTR",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
 
 stations:[
 
 {
-name:"CH 3",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezYro9vAAtz-xIL-tPUZnyq_AZZF2xIK1wA&usqp=CAU",
-url:"https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8"
+name:"Cartoon Network",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
-{
-name:"CH 7",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-h3ragOjtgZ_zAI4k4_r2o5IFfgDEr7rDQ&usqp=CAU",
-url:"https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8"
-},
-{
-name:"WORKPOINT",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEERMuJti876zBtxXaPie_SJju8hG8imYjpw&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8"
-},
-{
-name:"MCOT HD",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxGGIx6r6k9_INIpTcDjLG8uTddyWvISHWQ&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/mcothd/playlist.m3u8"
-},
-{
-name:"ONE 31",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYPHg7SfjqnYx_wcqP5rSpgMyZPqNY_9jJA&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/onehd/chunks.m3u8"
-},
-{
-name:"THAIRATH TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiQQZmH2xNKHfcOzGREgB2idFZtIUNKV058g&usqp=CAU",
-url:"https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8"
-},
-{
-name:"MONO29",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQid5XXTY6E8ThC3T5biEaPmZq0a7HfM8Y8pQ&usqp=CAU",
-url:"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8"
-},
-{
-name:"AMARIN TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-T3JS5Sy1VoM7E2qKpM9Rop9nntBBzb4I7w&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/amarinhd/playlist.m3u8"
-},
-{
-name:"CH 8",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQksgw4Ay_xbWWM6H-YrGRBwDxdPxkoecbsw&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/ch8/playlist.m3u8"
-},
-{
-name:"GMM25",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOBW2CJWm5K6x0EVgsl8HknXbOG6WrbWZU6w&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8"
-},
-{
-name:"PPTV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBxMD_8vUV85cjRmpoVDSuYaTO_J910ZOMFA&usqp=CAU",
-url:"https://pptv36-1tsjfj.cdn.byteark.com/live/pl_720p/index.m3u8"
-},
-{
-name:"TRUE4U",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmPMMW9uCGWuiPOcaNVT0smQg6ZOTGY1KSQ&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8"
-},
-{
-name:"CH 5",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKdJHRvtUHDn_RbHL2Claokru4mnwOnaERA&usqp=CAU",
-url:"http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8"
-},
-{
-name:"THAI PBS",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDzWryv2QBICz2vVD28GJFZaKi3e_AgEKEA&usqp=CAU",
-url:"https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8"
-},
-{
-name:"TNN16",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVBdzAbUGNkiGTUIFL5JIsUYx1c9lVTsubA&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8"
-},
-{
-name:"JKN 18",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJqrpA6zC5z7hXDbacb0i8ZyMvhrSLwuuizg&usqp=CAU",
-url:"https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8"
-},
-{
-name:"T Sports 7",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",
-url:"http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/7/7.mpd"
-},
-{
-name:"NBT",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOI10a5HYROI-BpsI6ezH2Tua4rcL6PLbAtg&usqp=CAU",
-url:"http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1423881950.m3u8"
-},
-{
-name:"NATION",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8v3_7NvjLqD5B_W_Gs1p19c4LAUuWSd6rw&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8"
-},
-{
-name:"TPTV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0pYUP576iu0I49deMkLemLlsb_nxIk7BgQ&usqp=CAU",
-url:"https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/playlist.m3u8"
-},
-{
-name:"ALTV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8f9udZFZDWUlgbGDLkJ_SttoltzbhOiAoQ&usqp=CAU",
-url:"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8"
-},
-{
-name:"CH 3 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVLVvP0EsLugqgIqh_tlobXll1g3u3WqB6g&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8"
-},
-{
-name:"CH 7 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReVi0ZcB7B3FGQJ4-rho-1npFC_8X843qWQ&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8"
-},
-{
-name:"WORKPOINT สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjB0Vvi9eb3kX9AnphsXxpJYsuDTuMbaywg&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
+{  
+name:"DreamWorks",
+image:"https://favforward.com/app/uploads/2018/03/creative-equals-international-womens-day-logos-dreamworks_dezeen2-852x852-1.gif",
+url:"https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjExOjE2IEFNJmhhc2hfdmFsdWU9MWtKYzUvZlZBZFd4RzBhbjh6TUhxdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMiZpZD1jaF82ODQ5NQ==",
+"referer": "https://wacth.tv/",
 playInNatPlayer: "true"
 },
 {
-name:"MCOT HD สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCK_IJfCoXXsfTcyhTJ_fpHANqXSjE4nhTQ&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_MCOTHD_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
-playInNatPlayer: "true"
-},
-{
-name:"ONE 31 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8hKixnP2LwmcmKF68Afj8bvePtP47K2F-rw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/onehd#main_dootv",
+name:"Aniplus",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
  "referer": "https://www.doofootball.com/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"THAIRATH สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibOiS8cYBV-MGHZA-J-2nD38rVoa6-XEnFg&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/thairahttvhd/playlist.m3u8"
+name:"SparkJump",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"MONO29 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVw2LoFIf6XpQMGJPPCFAkvvFwMAItgdgXRA&usqp=CAU",
-url:"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8"
+name:"Cartoon Club",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcoJhDLdj7kZ5z0GRIymGlMCDJBc42tulkQ&usqp=CAU",
+url:"https://edge1-bkk.3bb.co.th:9443/Alter_CartoonClub_Live/CartoonClub_Alter.stream/playlist.m3u8"
 },
 {
-name:"AMARIN TV สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbRJhySb-3htwXAgkYFR5dzs7r0WY3iByNg&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_AMARINHD_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
-playInNatPlayer: "true"
+name:"FwToon",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHa8sb2sv2-GpYNxyOjDaIqnaXtoTXIVTSQ&usqp=CAU",
+url:"http://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8"
 },
 {
-name:"CH 8 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8qOXJdM6roTNhQ6B8dgpHec1Bspz9Xfuwg&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_8HD_720p/chunklist.m3u8",
- "referer": "https://www.doomovie-hd.com/",
-"referer": "https://www.doomovie-hd.com/",
-playInNatPlayer: "true"
-},
-{
-name:"GMM25 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRkAM_9zGb2p7eC0twQ8BAv1f1Pjc_haLRMg&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_GMM_720p/chunklist.m3u8",
- "referer": "https://www.doomovie-hd.com/",
-"referer": "https://www.doomovie-hd.com/",
-playInNatPlayer: "true"
-},
-{
-name:"PPTV สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-m85jX38dwvOZJfz4IbTzEhJKnKljVSFRw&usqp=CAU",
-url:"https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8"
-},
-{
-name:"TRUE4U สำรอง",
-image:"https://siamrath.co.th/files/img/20170307/d764ec2fa55eb5bcbd8441087b59a7673230fece4715f9b93faf524f7f693d81.jpg",
-url:"https://www.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8",
- "referer": "https://www.doomovie-hd.com/",
-"referer": "https://www.doomovie-hd.com/",
-playInNatPlayer: "true"
-},
-{
-name:"CH 5 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKtVS2ZKbKVvRrHRmCF2g4UlrvxRDdCNESUg&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8"
-},
-{
-name:"THAI PBS สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhWhFI-IAc2QlI804HqFSs9S5sjxE-tkYmQ&usqp=CAU",
-url:"https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
-},
-{
-name:"TNN16 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtofGCPgtBRonsJJnqj4Y069hN71SrvgF8A&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_TNN24_480p/chunklist.m3u8",
- "referer": "https://www.doomovie-hd.com/",
-"referer": "https://www.doomovie-hd.com/",
-playInNatPlayer: "true"
-},
-{  
-name:"JKN 18 สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4YCflIyiLdKDbEx1jU3wonimfTnzLfphJA&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_JKN_480p/chunklist.m3u8",
- "referer": "https://www.doomovie-hd.com/",
-"referer": "https://www.doomovie-hd.com/",
-playInNatPlayer: "true"
-},
-{
-name:"T Sports 7 สำรอง",
-image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS69Thm99n6GynSG5HmbRf4o9zSg8tXJttSwR9kuid_esyJ9e8r",
-url:"https://www.doofootball.com/dootv/live/tsports#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+name:"Boomerang TH",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
 },
 {
-name:"NBT สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6i9Rf1czdGWz59BRKHgo9PCvQl9g8E0NmWQ&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/nbt/playlist.m3u8"
+name:"Toonee",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCvAIHIA4GSnKQGojA3iIltAeQmIbK5_rDXw&usqp=CAU",
+url:"http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8"
 },
 {
-name:"NATION สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5AI2qu7S_cCqWrPwUfb-1VUvy9S57R4pNQ&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_NATION_480p/chunklist.m3u8",
- "referer": "https://www.doomovie-hd.com/",
-"referer": "https://www.doomovie-hd.com/",
-playInNatPlayer: "true"
+name:"KIDS MOVIES",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjAWG4sNb-Doe7QAwdZvq7YVdMrgC_e_TkA&usqp=CAU",
+url:"http://203.154.243.89:28010/pa/umi.ts"
 },
 {
-name:"TPTV สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr-VkfW9ZBvK4xGqw0ryuxOPksjyi8IHyRhg&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8"
+name:"sanook",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuFIRZurVRaqEH1I2dQhPLqxJ31IYamkAA&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+},
+{ 
+name:"HBO FAMILY",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"ALTV สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPz9BykHzpc2L9bYXhmLg2thJl6ctyXxrwfQ&usqp=CAU",
-url:"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+name:"ANIMAX",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW04KcEeq477eHd9ZUZtTWdJ7Gl-1m5gSIMA&usqp=CAU",
+url:"http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
 },
+{  
+name:"LEGO Channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcREZ3Me9anB_t0h7kdrPMCBAlyW-t9r-jPA&usqp=CAU",
+url:"https://legochannel-roku.amagi.tv/playlist.m3u8"
+},
+{  
+name:"Disney Junior",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzSEIQUWjVdGe0v_TlKikauGHcuIXpgISMA&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=DisneyJr",
+"referer": "https://ustvgo.tv/disneyjr/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Disney Channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3prW0ozJ7ZF_8P7-GaszuqPPg5WSRxU_AQ&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=Disney",
+"referer": "https://ustvgo.tv/disney-channel-live-streaming-free/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Disney XD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLtWAYs-Q_LsDTYb81w-CYA6H_LX1VvWVeA&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=DisneyXD",
+"referer": "https://ustvgo.tv/disneyxd/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Boomerang",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZkCf7KQbsRewV2dE1MPcYKs9WYCZESaXcg&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=Boomerang",
+"referer": "https://ustvgo.tv/boomerang/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Nicktoons",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyN2HsDqIWtMXAPVvUdX7pXRlVyXgibGEcew&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=Nicktoons",
+"referer": "https://ustvgo.tv/nicktoons/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Nickelodeon",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyTzSx0GdKViGVhrU8ULZaeh7snf4KpG4nA&usqp=CAU",
+url:"https://ustvgo.tv/player.php?stream=Nickelodeon",
+"referer": "https://ustvgo.tv/nickelodeon-live-streaming-free/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
+"playInNatPlayer": "embed"
+},
+{  
+name:"Nick Jr Pluto",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcyhWeejb5IWopxAL1MNIB3sGAegQOmYJ_g&usqp=CAU",
+url:"https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8"
+},
+{  
+name:"CONtv ANIME",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XcicAcpnZOsMIlRVbYII6BCAtuTDDD98hw&usqp=CAU",
+url:"https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8"
+},
+{  
+name:"PBS Kids",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVn9KAP1vCPO3MdLBCDz5B-JM8F26DVfRpdw&usqp=CAU",
+url:"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+},
+{
+name:"zoomoo",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSj9wLvlafCxHPMOO6jpUrjtOlCS2cxs-sA&usqp=CAU",
+url:"https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+}
 ]
 }
