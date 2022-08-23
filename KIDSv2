@@ -22,12 +22,16 @@ playInNatPlayer: "true"
 {
 name:"Aniplus",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",
-url:"https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r8/aniplus/playlist.m3u8"
+url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"SparkJump",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",
-url:"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r7/truesparkjump/playlist.m3u8"
+url:"https://www.doofootball.com/dootv/live/truesparkjump#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"Cartoon Club",
@@ -51,6 +55,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCvAIHIA4GSnKQGojA3
 url:"http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8"
 },
 {
+name:"KIDS MOVIES",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjAWG4sNb-Doe7QAwdZvq7YVdMrgC_e_TkA&usqp=CAU",
+url:"http://203.154.243.89:28010/pa/umi.ts"
+},
+{
 name:"sanook",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuFIRZurVRaqEH1I2dQhPLqxJ31IYamkAA&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
@@ -58,7 +67,9 @@ url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 
 { 
 name:"HBO FAMILY",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU",
-url:"https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/hbo-family/playlist.m3u8"
+url:"https://www.doofootball.com/dootv/live/hbofamily#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"ANIMAX",
