@@ -6,13 +6,6 @@ author:"GTR",
 stations:[
 
 {
-name:"Cartoon Network",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/",
-playInNatPlayer: "true"
-},
-{  
 name:"DreamWorks",
 image:"https://favforward.com/app/uploads/2018/03/creative-equals-international-womens-day-logos-dreamworks_dezeen2-852x852-1.gif",
 url:"https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjExOjE2IEFNJmhhc2hfdmFsdWU9MWtKYzUvZlZBZFd4RzBhbjh6TUhxdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMiZpZD1jaF82ODQ5NQ==",
@@ -20,6 +13,13 @@ url:"https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2V
 playInNatPlayer: "true"
 },
 {
+name:"NextKid",
+image:"https://cdn.discordapp.com/attachments/961584381993037847/961593510270734386/810a5fa68863efb67e7db2d6037c165a.jpg",
+url:"https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjU1OjA3IEFNJmhhc2hfdmFsdWU9YTQxOE56cUhTSFN5RHd2dkt6ZVpXQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81NzA4Mw==",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
+},
+{  
 name:"Aniplus",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
