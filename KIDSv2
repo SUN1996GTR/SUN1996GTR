@@ -78,48 +78,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcREZ3Me9anB_t0h7kd
 url:"https://legochannel-roku.amagi.tv/playlist.m3u8"
 },
 {  
-name:"Disney Junior",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzSEIQUWjVdGe0v_TlKikauGHcuIXpgISMA&usqp=CAU",
-url:"https://ustvgo.tv/player.php?stream=DisneyJr",
-"referer": "https://ustvgo.tv/disneyjr/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
-},
-{  
-name:"Disney Channel",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3prW0ozJ7ZF_8P7-GaszuqPPg5WSRxU_AQ&usqp=CAU",
-url:"https://ustvgo.tv/player.php?stream=Disney",
-"referer": "https://ustvgo.tv/disney-channel-live-streaming-free/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
-},
-{  
-name:"Disney XD",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLtWAYs-Q_LsDTYb81w-CYA6H_LX1VvWVeA&usqp=CAU",
-url:"https://ustvgo.tv/player.php?stream=DisneyXD",
-"referer": "https://ustvgo.tv/disneyxd/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
-},
-{  
-name:"Boomerang",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZkCf7KQbsRewV2dE1MPcYKs9WYCZESaXcg&usqp=CAU",
-url:"https://ustvgo.tv/player.php?stream=Boomerang",
-"referer": "https://ustvgo.tv/boomerang/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
-},
-{  
-name:"Nicktoons",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyN2HsDqIWtMXAPVvUdX7pXRlVyXgibGEcew&usqp=CAU",
-url:"https://ustvgo.tv/player.php?stream=Nicktoons",
-"referer": "https://ustvgo.tv/nicktoons/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
-},
-{  
-name:"Nickelodeon",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyTzSx0GdKViGVhrU8ULZaeh7snf4KpG4nA&usqp=CAU",
-url:"https://ustvgo.tv/player.php?stream=Nickelodeon",
-"referer": "https://ustvgo.tv/nickelodeon-live-streaming-free/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
-},
-{  
 name:"Nick Jr Pluto",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcyhWeejb5IWopxAL1MNIB3sGAegQOmYJ_g&usqp=CAU",
 url:"https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8"
