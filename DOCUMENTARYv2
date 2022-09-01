@@ -118,15 +118,16 @@ url:"https://www.doofootball.com/dootv/live/fashiontv#main_dootv",
 {
 name:"Discovery Turbo",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj23A-PM7AJvgfmHZs-i6IdkRl0stw4shYw&usqp=CAU",
-url:"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0",
+url:"https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
 playInNatPlayer: "true"
 },
 {
-name:"MotorTrend",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC7en7087oC9zivgCS3DHmHksM7AxhoPJ-Q&usqp=CAU",
-url:"https://ustvgo.tv/player.php?stream=MotorTrend",
-"referer": "https://ustvgo.tv/motortrend/", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac Mobile/15E148 Safari/ 604.1",
-"playInNatPlayer": "embed"
+name:"DMAX",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXMGTGroTo7hDR9wbQnk_0BPJAWz7Xxt7Rkw&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+playInNatPlayer: "true"
 },
 { 
 name:"DOONEE เปิดโลก",
