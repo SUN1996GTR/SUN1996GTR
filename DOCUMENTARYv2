@@ -15,7 +15,9 @@ url:"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
 {
 name:"Love Nature",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",
-url:"http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"
+url:"https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MzEgUE0maGFzaF92YWx1ZT1Wc0QybzAxOE5Eak5NdVZkbDBtMC9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzIyOTM5",
+"referer": "https://wacth.tv/",
+playInNatPlayer: "true"
 },
 {
 name:"Sumlojlok",
@@ -122,7 +124,7 @@ url:"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-sams
 playInNatPlayer: "true"
 },
 {
-name:"Discovery History",
+name:"DiscoveryHistory",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-OB7XXLlx3FeH57e1btgn8KMcYk41SHyLw&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net",
