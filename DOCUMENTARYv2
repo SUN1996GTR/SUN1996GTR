@@ -22,9 +22,9 @@ playInNatPlayer: "true"
 {
 name:"Sumlojlok",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",
-url:"https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjQ0IEFNJmhhc2hfdmFsdWU9MWRxcVhpSHliZWI5SFo5RlV3MElyZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8yNzIxMQ==",
-"referer": "https://wacth.tv/",
-playInNatPlayer: "true"
+url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+ "playInNatPlayer": "true"
 },
 {
 name:"MySci",
