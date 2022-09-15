@@ -15,22 +15,18 @@ url:"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
 {
 name:"Love Nature",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",
-url:"https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIyIDI6NTA6MzEgUE0maGFzaF92YWx1ZT1Wc0QybzAxOE5Eak5NdVZkbDBtMC9BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzIyOTM5",
-"referer": "https://wacth.tv/",
-playInNatPlayer: "true"
+url:"http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"
 },
 {
 name:"Sumlojlok",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",
 url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
- "playInNatPlayer": "true"
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 },
 {
 name:"MySci",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9a0o12Gnm62_YR7malqCzdJlwVUAlPNn6mA&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202105171329/LC37/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
+url:"https://cdn6.goprimetime.info/feed/202105171329/LC37/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {  
 name:"Discovery",
@@ -50,15 +46,13 @@ url:"https://www.doofootball.com/dootv/live/natgeo#main_dootv",
 name:"Discovery Asia",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJxQqvZpQHNsPu-kYHVsSm_Y2Og6UJcekRA&usqp=CAU",
 url:"https://www.livedoomovies.com:4431/02_DiscoveryHDWorld/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com",
-playInNatPlayer: "true"
+"referer": "https://www.doomovie-hd.com"
 },
 {
 name:"BBC earth",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtrW90s7FgmfIvjlmZ_LW9k2BO3_hSgskmQ&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
-"referer": "https://streaming.livescorethai.net",
-playInNatPlayer: "true"
+"referer": "https://streaming.livescorethai.net"
 },
 {  
 name:"History",
@@ -72,8 +66,7 @@ url:"https://www.doofootball.com/dootv/live/history#main_dootv",
 name:"History 2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGjSVYKNMT2zEXhtWf9FBXWxNMuNLXNtezfw&usqp=CAU",
 url:"https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com",
-playInNatPlayer: "true"
+"referer": "https://www.doomovie-hd.com"
 },
 {
 name:"Asian Food Network",
@@ -120,15 +113,13 @@ url:"https://www.doofootball.com/dootv/live/fashiontv#main_dootv",
 {
 name:"Discovery Turbo",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj23A-PM7AJvgfmHZs-i6IdkRl0stw4shYw&usqp=CAU",
-url:"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0",
-playInNatPlayer: "true"
+url:"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0"
 },
 {
 name:"DiscoveryHistory",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-OB7XXLlx3FeH57e1btgn8KMcYk41SHyLw&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlist.m3u8",
-"referer": "https://streaming.livescorethai.net",
-playInNatPlayer: "true"
+"referer": "https://streaming.livescorethai.net"
 },
 {  
 name:"DOONEE เปิดโลก",
@@ -144,15 +135,13 @@ url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
 name:"Animal Planet สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",
 url:"https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com",
-playInNatPlayer: "true"
+"referer": "https://www.doomovie-hd.com"
 },
 {
 name:"Sumlojok สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwuRbVdUrgoJd6R3FkE8_CtwJBOH3vUVAxQ&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202105171329/LC8/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
- "playInNatPlayer": "true"
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 },
 {
 name:"Discovery สำรอง",
@@ -171,30 +160,26 @@ url:"https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
 name:"National Geographic สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3veR1JShUQMyrlxYkwRZcS0qLIY5P5c89Q&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8",
-"referer": "https://streaming.livescorethai.net",
-playInNatPlayer: "true"
+"referer": "https://streaming.livescorethai.net"
 },
 {
 name:"History สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU",
 url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
 url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
-"referer": "https://streaming.livescorethai.net",
-playInNatPlayer: "true"
+"referer": "https://streaming.livescorethai.net"
 },
 {
 name:"History 2 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Lnrn0FdcTDJCeGfQ8xi7i_kJ4jN00uqYCg&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/hd-history2.stream/playlist.m3u8",
-"referer": "https://streaming.livescorethai.net",
-playInNatPlayer: "true"
+"referer": "https://streaming.livescorethai.net"
 },
 {
 name:"Sumlojok สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzHUG6Gni8UJkWNZ72wIGRJ3VPSAppAHiOQ&usqp=CAU",
 url:"http://61.19.242.134/feed/202105171329/LC8/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
- "playInNatPlayer": "true"
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 },
 ]
 }
