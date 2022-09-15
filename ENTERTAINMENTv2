@@ -199,9 +199,10 @@ url:"https://www.doofootball.com/dootv/live/axn#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"NK TV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",
-url:"http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8"
+name:"7flix",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
+url:"http://61.19.242.134/feed/202105171329/LC5/index.m3u8",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"FwMov",
@@ -259,12 +260,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzey5Dab6hSFxNJBKE
 url:"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8"
 },
 {
-name:"7flix",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
-url:"http://61.19.242.134/feed/202105171329/LC5/index.m3u8",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
 name:"CHANNEL 8",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVDFBlSqT7CvwUYCBpZ8xutmIxsNH680C3Q&usqp=CAU",
 url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
@@ -275,11 +270,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCIRIeYMZBtdMgMILWN
 url:"https://aisplay.ais.co.th/portal/live?vid=59671fe1bf6aee05db70dc41",
 "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
 "isHost": true
-},
-{  
-name:"Mix Major Channel",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz0cPOdp92BKRc3EbrfXRX9IZMIcWrd75Bw&usqp=CAU",
-url:"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/playlist.m3u8"
 },
 {  
 name:"MOVIES WORLD 1",
