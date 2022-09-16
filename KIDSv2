@@ -46,7 +46,7 @@ url:"http://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/pla
 {
 name:"Boomerang TH",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+url:"https://cdn6.goprimetime.info/feed/202205171329/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
 },
 {
@@ -57,7 +57,7 @@ url:"http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8"
 {
 name:"sanook",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuFIRZurVRaqEH1I2dQhPLqxJ31IYamkAA&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202105171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+url:"https://cdn6.goprimetime.info/feed/202205171329/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 { 
 name:"HBO FAMILY",
