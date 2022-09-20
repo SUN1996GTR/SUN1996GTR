@@ -106,7 +106,7 @@ url:"https://doball24.com/player/live.php?ch=hd-koreanmore",
 { 
 name:"True Thai Film",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=hd-tfilm",
+url:"https://doball24.com/player/live.php?ch=sd-thaifilm",
  "referer": "https://doball24.com/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
