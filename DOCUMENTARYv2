@@ -51,8 +51,7 @@ url:"https://www.livedoomovies.com:4431/02_DiscoveryHDWorld/chunklist.m3u8",
 {
 name:"BBC earth",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtrW90s7FgmfIvjlmZ_LW9k2BO3_hSgskmQ&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
-"referer": "https://streaming.livescorethai.net"
+url:"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbcearth/playlist.m3u8"
 },
 {  
 name:"History",
@@ -146,8 +145,9 @@ url:"https://cdn6.goprimetime.info/feed/202205171329/LC8/index.m3u8",
 {
 name:"Discovery สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JGlqlwZArE7MQfJRJernPw8PTiZjMrCZGg&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+url:"https://doball24.com/player/live.php?ch=th-discovery",
+ "referer": "https://doball24.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"Discovery Asia สำรอง",
@@ -174,12 +174,6 @@ name:"History 2 สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Lnrn0FdcTDJCeGfQ8xi7i_kJ4jN00uqYCg&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/hd-history2.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net"
-},
-{
-name:"Sumlojok สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzHUG6Gni8UJkWNZ72wIGRJ3VPSAppAHiOQ&usqp=CAU",
-url:"http://61.19.242.134/feed/202205171329/LC8/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 },
 ]
 }
