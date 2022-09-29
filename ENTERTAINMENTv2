@@ -146,13 +146,23 @@ url:"https://www.doofootball.com/dootv/live/3bbasian#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
+name:"TVB XING HE",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOWNZPo8baXu48CjO_wXWguOhwxrjlxp_HDw&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/tvb#main_dootv",
+ "referer": "https://www.doofootball.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{  
 name:"CCM",
 image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw-KzD_bLUExn8SfXuClJ36PWkjxM190K9kpeGx965ACbITSWg",
-url:"https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjIyIEFNJmhhc2hfdmFsdWU9UWNlNy80ck10K3lybFhvS0g5YnhmUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8xODEwOQ==",
-"referer": "https://wacth.tv/",
-playInNatPlayer: "true"
+url:"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/celestial-classic-movies/playlist.m3u8"
 },
 {
+name:"KMTV",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZY94x7nG3EW0xzy6TzieGAkuHjTKNGY-2AA&usqp=CAU",
+url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/kmtv/playlist.m3u8"
+},
+{  
 name:"Kbs World",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",
 url:"https://doball24.com/player/live.php?ch=th-kbsworld",
