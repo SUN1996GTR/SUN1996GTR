@@ -1,6 +1,6 @@
 {
 name:"ENTERTAINMENT",
-author:"GTR",
+author:"SUN",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-Hg04bRcxnfLrtvZkWQX5qac9ZgafZblw&usqp=CAU",
 
 stations:[
@@ -220,7 +220,7 @@ url:"https://www.doofootball.com/dootv/live/axn#main_dootv",
 {
 name:"7flix",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
-url:"http://61.19.242.134/feed/202205171329/LC5/index.m3u8",
+url:"http://61.19.242.134/feed/202205171929/LC5/index.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
