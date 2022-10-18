@@ -8,16 +8,12 @@ stations:[
 {
 name:"Cartoon Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=th-cartoonnetwork",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/cartoonnetwork/chunks.m3u8"
 },
 {
 name:"DreamWorks",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStybqNogttMOW-5bbxlYPPsQaxOtzDL3L4yA&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=th-dreamworks",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/dreamworks/chunks.m3u8"
 },
 {
 name:"Aniplus",
@@ -48,9 +44,7 @@ url:"https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/truespa
 {  
 name:"Nickelodeon",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyTzSx0GdKViGVhrU8ULZaeh7snf4KpG4nA&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=th-nickelodeon",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/nickelodeon/chunks.m3u8"
 },
 {  
 name:"Cartoon Club",
