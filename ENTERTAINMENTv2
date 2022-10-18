@@ -106,23 +106,17 @@ url:"https://doball24.com/player/live.php?ch=hd-koreanmore",
 { 
 name:"True Thai Film",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=sd-thaifilm",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/truethaifilm/chunks.m3u8"
 },
 {
 name:"True Series",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=sd-series",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/trueseries/chunks.m3u8"
 },
 {
 name:"True Xzyte",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=hd-xzyte",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8"
 },
 {
 name:"tvN",
@@ -165,16 +159,12 @@ url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/kmtv/pl
 {  
 name:"Kbs World",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=th-kbsworld",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/kbsworld/playlist.m3u8"
 },
 {
 name:"Lifetime",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=hd-lifetime",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/lifetime/playlist.m3u8"
 },
 {
 name:"Food Network",
