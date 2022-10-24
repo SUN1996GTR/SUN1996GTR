@@ -144,28 +144,38 @@ url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
 {  
 name:"Animal Planet สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hd-animalplanet/chunks.m3u8"
+url:"https://doball24.com/player/live.php?ch=th-animalplanet",
+ "referer": "https://doball24.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"Discovery สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JGlqlwZArE7MQfJRJernPw8PTiZjMrCZGg&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hd-discovery/chunks.m3u8"
+url:"https://doball24.com/player/live.php?ch=th-discovery",
+ "referer": "https://doball24.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"Discovery Asia สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVSLXxul2rmqhsSo3KSf6OzZUyt0TUkm_DQ&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/discovery-asia/chunks.m3u8"
+url:"https://doball24.com/player/live.php?ch=hd-discovery",
+ "referer": "https://doball24.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"National Geographic สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3veR1JShUQMyrlxYkwRZcS0qLIY5P5c89Q&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/natgeo/chunks.m3u8"
+url:"https://doball24.com/player/live.php?ch=th-natgeo",
+ "referer": "https://doball24.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"History สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU",
 url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
-url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-history/chunks.m3u8"
+url:"https://doball24.com/player/live.php?ch=hd-history",
+ "referer": "https://doball24.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"History 2 สำรอง",
