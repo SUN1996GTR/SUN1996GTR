@@ -83,13 +83,6 @@ url:"https://www.doofootball.com/dootv/live/truefilmasia#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {  
-name:"True Chinese More",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlPYEg27GYxxBuRk1ceiInzwK7nRSRUI8f2w&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=hd-koreanmore",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
 name:"True Asian More",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ilh8YE_tDYYb-yxhPIeXlgDze1hYdCyP7Q&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/asianseries#main_dootv",
@@ -97,26 +90,22 @@ url:"https://www.doofootball.com/dootv/live/asianseries#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {  
-name:"True Korean More",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe8TsQ5nAmYLfntgsD2IPWghztwIcHRw8mw&usqp=CAU",
-url:"https://doball24.com/player/live.php?ch=hd-koreanmore",
- "referer": "https://doball24.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{ 
 name:"True Thai Film",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/truethaifilm/chunks.m3u8"
+url:"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"
 },
 {
 name:"True Series",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/trueseries/chunks.m3u8"
+url:"https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"
 },
 {
 name:"True Xzyte",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8"
+url:"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"
 },
 {
 name:"tvN",
@@ -147,24 +136,16 @@ url:"https://www.doofootball.com/dootv/live/tvb#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {  
-name:"CCM",
-image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw-KzD_bLUExn8SfXuClJ36PWkjxM190K9kpeGx965ACbITSWg",
-url:"https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/celestial-classic-movies/playlist.m3u8"
-},
-{
-name:"KMTV",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZY94x7nG3EW0xzy6TzieGAkuHjTKNGY-2AA&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/kmtv/playlist.m3u8"
-},
-{  
 name:"Kbs World",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXYImGQgwhRQh4V054OIBCVNBDpaRc4ojdQ&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/kbsworld/playlist.m3u8"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-kbsworld&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 },
 {
 name:"Lifetime",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",
-url:"https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/lifetime/playlist.m3u8"
+url:"https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"
 },
 {
 name:"Food Network",
@@ -212,16 +193,6 @@ name:"7flix",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
 url:"http://61.19.242.134/feed/202205171929/LC5/index.m3u8",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
-name:"FwMov",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8"
-},
-{
-name:"FwSov",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9Qq0Fc_g4qUlOGLzycMkkeNSLWNgmcD2hw&usqp=CAU",
-url:"http://freelive2.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8"
 },
 {
 name:"SUN",
@@ -283,7 +254,7 @@ url:"https://aisplay.ais.co.th/portal/live?vid=59671fe1bf6aee05db70dc41",
 {  
 name:"MOVIES WORLD 1",
 image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
-url:"https://cdn6.goprimetime.info/feed/202205171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+url:"https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
 name:"COOL CHANNEL",
