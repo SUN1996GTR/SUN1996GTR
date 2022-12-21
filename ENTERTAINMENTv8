@@ -169,19 +169,6 @@ url:"https://www.doofootball.com/dootv/live/hitsmovie#main_dootv",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"Rock Entertainment",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppGXAVxFcNXR30eEOO17XCyu3H6m6Dxn3Lg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/blueant#main_dootv",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
-name:"Rock Extreme",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/blueantextream#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
 name:"AXN",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
 url:"https://www.doofootball.com/dootv/live/axn#main_dootv",
@@ -192,6 +179,33 @@ url:"https://www.doofootball.com/dootv/live/axn#main_dootv",
 name:"7flix",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
 url:"http://61.19.242.134/feed/202205171929/LC5/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+name:"FwMov",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGO5PGVeRWT18Xbxgyoao0MkWoRDFO2KYW0A&usqp=CAU",
+url:"https://www.inwiptv.com/player_demo.php?channel=89782",
+ "referer": "https://www.inwiptv.com/",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+name:"FwSov",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9Qq0Fc_g4qUlOGLzycMkkeNSLWNgmcD2hw&usqp=CAU",
+url:"https://www.inwiptv.com/player_demo.php?channel=89781",
+ "referer": "https://www.inwiptv.com/",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+name:"Rock Entertainment",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppGXAVxFcNXR30eEOO17XCyu3H6m6Dxn3Lg&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/blueant#main_dootv",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+name:"Rock Extreme",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkZDeBql7MeoWAvaB8V1yT6CCaVROFNVDdw&usqp=CAU",
+url:"https://www.doofootball.com/dootv/live/blueantextream#main_dootv",
+ "referer": "https://www.doofootball.com/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
