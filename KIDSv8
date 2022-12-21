@@ -14,9 +14,8 @@ url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.
 {
 name:"DreamWorks",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgSrSr1gAiu_15RhQeT0sHKVKltoEuKtn-Q&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/dreamworks",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-dreamworks&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 },
 {  
 name:"SparkJump",
@@ -35,9 +34,8 @@ url:"https://www.doofootball.com/dootv/live/aniplus#main_dootv",
 {
 name:"SparkPlay",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO7gKkhigA7522MfA9RKMESDiMnFYoXi_O_w&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/truesparkplay",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkplay&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 },
 {  
 name:"Nick Jr",
@@ -49,9 +47,8 @@ url:"https://www.doofootball.com/dootv/live/nickjr#main_dootv",
 {  
 name:"Nickelodeon",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyTzSx0GdKViGVhrU8ULZaeh7snf4KpG4nA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/nickelodeon",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickelodeon&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 },
 {  
 name:"Cartoon Club",
@@ -62,6 +59,13 @@ url:"https://edge1-bkk.3bb.co.th:9443/Alter_CartoonClub_Live/CartoonClub_Alter.s
 name:"Boomerang TH",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202205171929/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+{
+name:"FwToon",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHa8sb2sv2-GpYNxyOjDaIqnaXtoTXIVTSQ&usqp=CAU",
+url:"https://www.inwiptv.com/player_demo.php?channel=89780",
+ "referer": "https://www.inwiptv.com/",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
 name:"Toonee",
