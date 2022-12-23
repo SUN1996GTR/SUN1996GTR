@@ -246,7 +246,7 @@ url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8"
 {  
 name:"MVtv ซีรีส์",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgB-y9aQpihK_u8ud_m5swPtWaHYs8Ir3Wg&usqp=CAU",
-url:"https://edge6a.v2h-cdn.com/mvseries_mp2/mvseries_mp2.stream/playlist.m3u8"
+url:"https://n-edge-1-th.v2h-cdn.com/mvtvseries/mvtvseries/playlist.m3u8"
 },
 {  
 name:"@TV",
@@ -269,6 +269,17 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCIRIeYMZBtdMgMILWN
 url:"https://tv.trueid.net/embed/MediaTV?autoplay=yes&nopageview=yes",
  "referer": "https://tv.trueid.net/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+name:"MVtv",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XtuRD_5ZF2GTm8qZgNAXx8Dn8FuGFAeWaA&usqp=CAU",
+url:"https://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/playlist.m3u8"
+},
+{
+name:"SWEET",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0SIcV89Zo3j0Pyv4jWgQ5ceHIKvz9GgJtdw&usqp=CAU",
+url:"http://61.19.242.134/feed/202205171929/LC58/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 }
 ]
 }
