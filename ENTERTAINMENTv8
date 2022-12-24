@@ -271,6 +271,26 @@ url:"https://tv.trueid.net/embed/MediaTV?autoplay=yes&nopageview=yes",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
+name:"สยาม Channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGnG_3OiCkB2GVGVhqZrZOOqjlgHU2kodKKw&usqp=CAU",
+url:"https://edge6a.v2h-cdn.com/v2h12/v2h12.stream/playlist.m3u8"
+},
+{  
+name:"ลิโด้ channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQme2ZTn5wi7qWRrXd8Prba5N9QrdAfYEWGQ&usqp=CAU",
+url:"https://edge6a.v2h-cdn.com/v2h13/v2h13.stream/playlist.m3u8"
+},
+{  
+name:"สกาล่า channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_anXB5K08vE_YnK-tFf0L0os1g0t2hf5Bw&usqp=CAU",
+url:"https://edge6a.v2h-cdn.com/v2h14/v2h14.stream/playlist.m3u8"
+},
+{  
+name:"ราม่า channel",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOKTsuNcW_hMWZS1SS-zHtjp9PlpW7UPUB3g&usqp=CAU",
+url:"https://edge6a.v2h-cdn.com/v2h15/v2h15.stream/playlist.m3u8"
+},
+{
 name:"MVtv",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XtuRD_5ZF2GTm8qZgNAXx8Dn8FuGFAeWaA&usqp=CAU",
 url:"https://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/playlist.m3u8"
