@@ -114,15 +114,16 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_Risrl
 url:"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
 },
 {
-name:"เจริญเคเบิ้ล",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJGgIGh5rnNjZS6QoXXmpdj-e0UcJi5FbTg&usqp=CAU",
-url:"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
+name:"Discovery Turbo",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj23A-PM7AJvgfmHZs-i6IdkRl0stw4shYw&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"
 },
-{  
-name:"ของดี ประเทศไทย",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2t9gXeGgWDls8JzHCy9ak9uPfVhLt4dybAg&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202205171929/LC31/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+{
+name:"DiscoveryHistory",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-OB7XXLlx3FeH57e1btgn8KMcYk41SHyLw&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"
 },
 {  
 name:"Animal Planet สำรอง",
