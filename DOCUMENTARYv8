@@ -62,15 +62,21 @@ url:"http://www.trueplookpanya.com/tv/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"NAT GEO WILD",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU",
-url:"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
-},
-{
 name:"Discovery Turbo",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj23A-PM7AJvgfmHZs-i6IdkRl0stw4shYw&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/playlist.m3u8",
 "referer": "https://streaming.livescorethai.net"
+},
+{
+name:"DiscoveryHistory",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-OB7XXLlx3FeH57e1btgn8KMcYk41SHyLw&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net"
+},
+{  
+name:"NAT GEO WILD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU",
+url:"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
 },
 {
 name:"Sumlojok สำรอง",
