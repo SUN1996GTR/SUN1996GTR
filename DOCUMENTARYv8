@@ -8,9 +8,8 @@ stations:[
 {
 name:"Animal Planet",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaTeiItZzavABzSdF4p5w2OP7ULqkvv0-xw&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://www.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com"
 },
 {
 name:"Sumlojlok",
@@ -19,53 +18,41 @@ url:"http://61.19.242.134/feed/202205171929/LC8/index.m3u8",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 },
 {
+name:"Discovery Asia",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJxQqvZpQHNsPu-kYHVsSm_Y2Og6UJcekRA&usqp=CAU",
+url:"https://www.livedoomovies.com:4432/02_DiscoveryHDWorld/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com"
+},
+{
 name:"BBC earth",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtrW90s7FgmfIvjlmZ_LW9k2BO3_hSgskmQ&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
 "referer": "https://freetvdd.com/"
 },
 {  
+"info": "กดข้ามโฆษณาก่อนรับชม",
 name:"Discovery",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe78brK5kEy6Pc1G3EYn4xhrc7yAQZqMbWGA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/discovery#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://embed-dev.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true"
 },
 {
-name:"Discovery Asia",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJxQqvZpQHNsPu-kYHVsSm_Y2Og6UJcekRA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/discoveryasia#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
+"info": "กดข้ามโฆษณาก่อนรับชม",
 name:"National Geographic",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNZFpMWynbl3M_AlHqXAwmXRRxGDXjH4GmQ&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/natgeo#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true"
 },
 {
-name:"CRIME+INVESTIGATION",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphT-TWFFGIAP-W5dhkqHkrGd_ZJraTSiHmg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/ci#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{  
+"info": "กดข้ามโฆษณาก่อนรับชม",
 name:"History",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
 url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
-url:"https://www.doofootball.com/dootv/live/history#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
-name:"Asian Food Network",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScokHhcLh-q9D9n5dJ3OuLhvsgjvf7DIEVUA&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/afc#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-history&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true"
 },
 {
 name:"ทรูปลูกปัญญา",
@@ -73,40 +60,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXmoVPffwBbbuTvvT_
 url:"http://www.trueplookpanya.com/tv/",
  "referer": "http://www.trueplookpanya.com/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
-name:"TRUE EXPLORE SCI",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Qlw65KKrmTjsa5WwZ60MTACvtOxZie9Csg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/truesci#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{  
-name:"TRUE EXPLORE LIFE",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCMDnqPWEHP5K2IFSRVC_57ElYq3v8GUohg&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/truelife#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{ 
-name:"TLC",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLTfqq381cBD6yKQKWlfkMu_K_-HHGbJ33Q&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/tlc#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{ 
-name:"fashiontv",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7aG0e10cyRYtYQn1elAOiQw2hVJNhAqUzQ&usqp=CAU",
-url:"https://www.doofootball.com/dootv/live/fashiontv#main_dootv",
- "referer": "https://www.doofootball.com/",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
-{
-name:"Love Nature",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvh2lpyd8bx6SpHnaHLv5kjFdJfs5hcPOFA&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=th-lovenature&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 },
 {
 name:"NAT GEO WILD",
@@ -120,34 +73,26 @@ url:"https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/playlist.
 "referer": "https://streaming.livescorethai.net"
 },
 {
-name:"DiscoveryHistory",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-OB7XXLlx3FeH57e1btgn8KMcYk41SHyLw&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlist.m3u8",
-"referer": "https://streaming.livescorethai.net"
-},
-{  
-name:"Animal Planet สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",
-url:"https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com"
-},
-{
 name:"Sumlojok สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwuRbVdUrgoJd6R3FkE8_CtwJBOH3vUVAxQ&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 },
 {
-name:"Discovery สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JGlqlwZArE7MQfJRJernPw8PTiZjMrCZGg&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+"info": "กดข้ามโฆษณาก่อนรับชม",
+name:"Animal Planet สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y4PwUxVNjGhYQQvG9iuTUjku2NTHOGL_BA&usqp=CAU",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true"
 },
 {
+"info": "กดข้ามโฆษณาก่อนรับชม",
 name:"Discovery Asia สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVSLXxul2rmqhsSo3KSf6OzZUyt0TUkm_DQ&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-discovery&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"embed": "true"
 },
 {
 name:"National Geographic สำรอง",
