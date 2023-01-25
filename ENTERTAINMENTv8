@@ -10,14 +10,14 @@ name:"True Film 1",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaC8p1W9OXEVnQh-9slSjn2btW68yjCxSv4Q&usqp=CAU",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=kmf743jnd",
 "referer":"https://ufac4.net/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 },
 { 
 name:"True Film 2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIg4ngK-82fYF0uEPUy52RrZpITwLlm9wyOw&usqp=CAU",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=kmf743jnd",
 "referer":"https://ufac4.net/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
 },
 {
 name:"True Chinese More",
@@ -164,7 +164,7 @@ url:"https://tv.trueid.net/embed/MediaTV?autoplay=yes&nopageview=yes",
 },
 {
 name:"COOL CHANNEL",
-image:"",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReV_OeD2g-2wg-jmHoKM7Z2tsQ3c_-dTs8Og&usqp=CAU",
 url:"https://live-iptv.cool-channel.com/cool/live-manifest.m3u8"
 },
 {  
