@@ -50,12 +50,22 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=k
 {  
 name:"True Thai Film",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwDsdlQxjbG5K1lC78PC5ofZTisjutI8Nsg&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8"
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=kmf743jnd","referer":"https://ufac4.net/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
 },
 {
 name:"True Series",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70DczICyb7AYWnzcw_3Vw&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8"
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=kmf743jnd","referer":"https://ufac4.net/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
+},
+{
+name:"TVB XING HE",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ZT1oEVDNbCKky1P7VfWukA7o5HRShbyXLg&usqp=CAU",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tvb&api_key=kmf743jnd","referer":"https://ufac4.net/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
+},
+{  
+name:"HBO",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qGExFqdU32p4rCwxHQV1laSKJgcm_iC4MA&usqp=CAU",
+url:"http://116.204.181.238:9981/stream/service/f826cf68ca36456ac84d2c08f18944a2"
 },
 {
 name:"AXN",
@@ -66,7 +76,8 @@ url:"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8",
 {
 name:"True Xzyte",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8"
+url:"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
 },
 {
 name:"Lifetime",
