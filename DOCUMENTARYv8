@@ -36,11 +36,23 @@ url:"https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8",
 "referer": "https://freetvdd.com/"
 },
 {
+name:"Discovery",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe78brK5kEy6Pc1G3EYn4xhrc7yAQZqMbWGA&usqp=CAU",
+url:"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0180/HLS/V0180.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=fbf9b1b49480ceae99e48e1406c649c4&chunkHttps=false&tmid=B0001&tpbk=VtMZjlieaVhNnl0F&rrt=1674493202&tmod=rfk&rsid=17c1375f-7d6d-4274-af9d-84481b5b0a98&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1674536403",
+"referer": "https://ais-vidnt.com/"
+},
+{
+name:"BBC lifestyle",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9dacL8e4hKrF_OH91wV-RccOrrSCZB8rxw&usqp=CAU",
+url:"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0126/HLS/V0126.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=fbf9b1b49480ceae99e48e1406c649c4&chunkHttps=false&tmid=B0001&tpbk=VtMZjlieaVhNnl0F&rrt=1674493202&tmod=rfk&rsid=17c1375f-7d6d-4274-af9d-84481b5b0a98&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1674536403",
+"referer": "https://ais-vidnt.com/"
+},
+{  
 name:"History",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
 url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
-url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
+url:"https://www.livedoomovies.com:4432/02_HISTORYHD_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com"
 },
 {
 name:"TRUE EXPLORE SCI",
@@ -57,17 +69,16 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=th-explife&api_key=kmf
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
 },
 { 
-name:"Food Network",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-food&api_key=kmf743jnd",
-"referer":"https://ufac4.net/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
+name:"Asian Food Network",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScokHhcLh-q9D9n5dJ3OuLhvsgjvf7DIEVUA&usqp=CAU",
+url:"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0161/HLS/V0161.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=fbf9b1b49480ceae99e48e1406c649c4&chunkHttps=false&tmid=B0001&tpbk=VtMZjlieaVhNnl0F&rrt=1674493202&tmod=rfk&rsid=17c1375f-7d6d-4274-af9d-84481b5b0a98&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1674536403",
+"referer": "https://ais-vidnt.com/"
 },
-{
-name:"TRUE EXPLORE WILD",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
+{  
+name:"TLC",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRLHlWQ-HsbBT33th4OJjaY-9dIv2fPTfOQ&usqp=CAU",
+url:"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0183/HLS/V0183.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=fbf9b1b49480ceae99e48e1406c649c4&chunkHttps=false&tmid=B0001&tpbk=VtMZjlieaVhNnl0F&rrt=1674493202&tmod=rfk&rsid=17c1375f-7d6d-4274-af9d-84481b5b0a98&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1674536403",
+"referer": "https://ais-vidnt.com/"
 },
 {  
 name:"Love Nature",
@@ -105,6 +116,19 @@ url:"https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlis
 "referer": "https://streaming.livescorethai.net"
 },
 {  
+name:"TRUE EXPLORE WILD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
+},
+{  
+name:"History สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU",
+url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
+url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
+},
+{
 name:"Sumlojok สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwuRbVdUrgoJd6R3FkE8_CtwJBOH3vUVAxQ&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8",
