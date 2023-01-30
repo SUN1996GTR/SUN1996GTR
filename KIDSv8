@@ -12,6 +12,11 @@ url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.
 "referer": "https://freetvdd.com/"
 },
 {
+name:"DreamWorks",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgSrSr1gAiu_15RhQeT0sHKVKltoEuKtn-Q&usqp=CAU",
+url:"http://nordicstream.xyz:2095/live/y4C7hyfS/bNsB5hx/115439.m3u8"
+},
+{  
 name:"Cartoon Club",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcoJhDLdj7kZ5z0GRIymGlMCDJBc42tulkQ&usqp=CAU",
 url:"https://edge1-bkk.3bb.co.th:9443/Alter_CartoonClub_Live/CartoonClub_Alter.stream/playlist.m3u8"
@@ -49,11 +54,6 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcyhWeejb5IWopxAL1
 url:"https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8"
 },
 {  
-name:"Nickelodeon",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyTzSx0GdKViGVhrU8ULZaeh7snf4KpG4nA&usqp=CAU",
-url:"https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8"
-},
-{
 name:"CONtv ANIME",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XcicAcpnZOsMIlRVbYII6BCAtuTDDD98hw&usqp=CAU",
 url:"https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8"
