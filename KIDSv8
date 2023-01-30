@@ -6,17 +6,17 @@ author:"SUN",
 stations:[
 
 {
+name:"DreamWorks",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgSrSr1gAiu_15RhQeT0sHKVKltoEuKtn-Q&usqp=CAU",
+url:"http://nordicstream.xyz:2095/live/y4C7hyfS/bNsB5hx/115439.m3u8"
+},
+{  
 name:"Cartoon Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
 "referer": "https://freetvdd.com/"
 },
 {
-name:"DreamWorks",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgSrSr1gAiu_15RhQeT0sHKVKltoEuKtn-Q&usqp=CAU",
-url:"http://nordicstream.xyz:2095/live/y4C7hyfS/bNsB5hx/115439.m3u8"
-},
-{  
 name:"Cartoon Club",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcoJhDLdj7kZ5z0GRIymGlMCDJBc42tulkQ&usqp=CAU",
 url:"https://edge1-bkk.3bb.co.th:9443/Alter_CartoonClub_Live/CartoonClub_Alter.stream/playlist.m3u8"
