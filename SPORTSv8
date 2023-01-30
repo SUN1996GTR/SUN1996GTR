@@ -251,14 +251,14 @@ url:"https://www.warpfootball.games/live/?ch=epl3",
 },
 {
 name:"TRUE PREMIUM FOOTBALL 4 สำรอง1",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAAJ3BYqcjd5jDl6xOUNfPPU2yUqMNdGX-Q&usqp=CAU",
+image:"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
 url:"https://www.warpfootball.games/live/?ch=epl4",
  "referer": "https://www.warpfootball.games/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"TRUE PREMIUM FOOTBALL 5 สำรอง1",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzlluh4IRl9GIhBa4Ciq2fVeD13dKIHMjA&usqp=CAU",
+image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png",
 url:"https://www.warpfootball.games/live/?ch=epl5",
  "referer": "https://www.warpfootball.games/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
@@ -321,7 +321,7 @@ url:"https://www.warpfootball.games/live/?ch=truetennis",
 },
 {
 name:"GOLF CHANNEL สำรอง2",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4McLThjiyxXdBHaRVpBDCQQGT2Ny59mwGGg&usqp=CAU",
+image:"https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
 url:"https://www.warpfootball.games/live/?ch=golfchannel",
  "referer": "https://www.warpfootball.games/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
