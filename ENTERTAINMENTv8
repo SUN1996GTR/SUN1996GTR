@@ -58,16 +58,33 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iuJcQj9KANvnb70Dc
 url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=kmf743jnd","referer":"https://ufac4.net/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
 },
 {
+name:"TRUE FILM ASIA",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdapmNP-C0b9EIe12AbdqfxxWMc0AXOCPyw&usqp=CAU",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=th-filmasia&api_key=mc6Ghb2",
+"isHost":"true",
+"referer":"https://www.ufa1913.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{  
+name:"KMTV",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa8nYzcFdIYcLFyH4yhC0FRmNtMKZ1Y4504Q&usqp=CAU",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-kmtv&api_key=mc6Ghb2&nocache=",
+"referer": "https://www.ufa1913.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+},
+{  
 name:"TVB XING HE",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ZT1oEVDNbCKky1P7VfWukA7o5HRShbyXLg&usqp=CAU",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tvb&api_key=kmf743jnd","referer":"https://ufac4.net/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
 },
 {  
-name:"CCM",
-image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw-KzD_bLUExn8SfXuClJ36PWkjxM190K9kpeGx965ACbITSWg",
-url:"http://nordicstream.xyz:2095/live/y4C7hyfS/bNsB5hx/115636.m3u8"
+name:"KBS WORLD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujonQdEpKAHLYU6nGWWlTt_HqAAiTXwrgSg&usqp=CAU",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-kbsworld&api_key=mc6Ghb2&nocache=",
+"referer": "https://www.ufa1913.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
-{
+{  
 name:"Food Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PewDk8NKPwC6HnNQdt8T4Z_WYvOMNZEa8Q&usqp=CAU",
 url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-food&api_key=kmf743jnd",
@@ -75,33 +92,51 @@ url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-food&api_key=kmf743
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
 },
 {
-name:"HBO",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qGExFqdU32p4rCwxHQV1laSKJgcm_iC4MA&usqp=CAU",
-url:"http://116.204.181.238:9981/stream/service/f826cf68ca36456ac84d2c08f18944a2"
-},
-{
 name:"Lifetime",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeK0ZqvvctIZ71ivLoRd6J1ZzdlvoawSX3fg&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=mc6Ghb2&nocache=",
+"referer": "https://www.ufa1913.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+},
+{
+name:"Paramount",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthBgkyHvR3UoAALXugrhmu6Q4Qo-PQo_E8w&usqp=CAU",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=mc6Ghb2",
+"referer":"https://www.ufa1913.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
 },
 {
 name:"WARNER TV",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RFusRg1VSFjaCcB1071X6b5qfVL0JOQqMg&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-warnertv&api_key=mc6Ghb2",
+"referer": "https://ufa1913.com",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
 name:"AXN",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qJR0gFs6lC5x1pk1J8HOg89jn2pmJQQjMg&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-axn&api_key=mc6Ghb2",
+"referer": "https://ufa1913.com",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
 name:"True Xzyte",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWjF4Uuo8Kpr1Q9sq3HpQJaTZXcG2WkgO5w&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-xzyte&api_key=mc6Ghb2&nocache=",
+"referer": "https://www.ufa1913.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+},
+{
+name:"HITS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOIwKn0ZSMv8bThQjlNNRlSvIBS0AYHj2Iw&usqp=CAU",
+url:"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0137/HLS/V0137.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=92dbe37c2ab741f7ea532984553234b9&chunkHttps=true&tmid=B0007&tpbk=1BaznrZBKoDU9nW2&rrt=1679097777&tmod=rfk&rsid=2d65d686-e63f-4c0e-bdde-f116ba7a4301&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1679184176",
+"referer": "https://ais-vidnt.com/"
+},
+{
+name:"HITS MOVIE",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbIXrZ6dSiWIIBnCyP9TYigXV55s5j6C1Cg&usqp=CAU",
+url:"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0138/HLS/V0138.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=92dbe37c2ab741f7ea532984553234b9&chunkHttps=true&tmid=B0007&tpbk=1BaznrZBKoDU9nW2&rrt=1679097777&tmod=rfk&rsid=2d65d686-e63f-4c0e-bdde-f116ba7a4301&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1679184176",
+"referer": "https://ais-vidnt.com/"
 },
 {
 name:"7flix",
