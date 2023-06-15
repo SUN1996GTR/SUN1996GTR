@@ -129,13 +129,13 @@ url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-xzyte&api_key=
 {
 name:"7flix",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9WX2-H1YO-fvH-2CaFKkTdwF0OtT7xSwRg&usqp=CAU",
-url:"http://61.19.242.134/feed/202205171929/LC5/index.m3u8",
+url:"http://61.19.242.134/feed/202306140918/LC5/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
 name:"SUN",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7CVw_AElT-ptYC6QNhrGvL7LyxJ79uXjfA&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
 name:"FwMov",
@@ -154,12 +154,12 @@ url:"https://www.inwiptv.com/player_demo.php?channel=89781",
 {
 name:"SAMURAI",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpwE0o80KpM2ja6DjqdrokkcULpGBTL_27g&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 {  
 name:"BOX FILM",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZoRQHoeJIhxHiX0yPQJguGEa4gOKTQ0HuA&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 { 
 name:"จอมยุทธ์",
@@ -199,7 +199,7 @@ url:"http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8"
 {  
 name:"MOVIES WORLD 1",
 image:"https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",
-url:"https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {  
 name:"MEDIA TV",
