@@ -6,16 +6,15 @@ author:"ดูฟรี BY SUN",
 stations:[
 
 {
-name:"Animal Planet",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaTeiItZzavABzSdF4p5w2OP7ULqkvv0-xw&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=kmf743jnd",
-"referer":"https://ufac4.net/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
-},
-{
 name:"Sumlojlok",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",
 url:"http://61.19.242.134/feed/202306140918/LC8/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+},
+{
+name:"MySci",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9a0o12Gnm62_YR7malqCzdJlwVUAlPNn6mA&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 },
 {
@@ -53,7 +52,6 @@ url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
 {  
 name:"History",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
-url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
 url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
 "referer": "https://freetvdd.com/"
 },
@@ -86,16 +84,17 @@ url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-tlc&api_key=mc
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {  
+name:"ANIMAL KINGDOM",
+image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbxTCmKEbDffP8YXHN-kw_a8NEQ0lrXpr0I-KBwyX9IKRQHM6O",
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+},
+{  
 name:"INWILD",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5ITsKR544CllUWlGpXoO_B-f8oax7G81zg&usqp=CAU",
 url:"https://inwild-samsung-uk.amagi.tv/playlist.m3u8"
 },
 {  
-name:"NAT GEO WILD",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU",
-url:"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
-},
-{
 name:"ของดี ประเทศไทย",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2t9gXeGgWDls8JzHCy9ak9uPfVhLt4dybAg&usqp=CAU",
 url:"https://cdn6.goprimetime.info/feed/202306140918/LC31/index.m3u8",
@@ -109,16 +108,19 @@ url:"http://www.trueplookpanya.com/tv/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"ANIMAL KINGDOM",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-FrEynJwJsQf6o2IqWWYuMm_FkMd7wFHTrw&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+name:"Discovery Asia สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVSLXxul2rmqhsSo3KSf6OzZUyt0TUkm_DQ&usqp=CAU",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=mc6Ghb2&nocache=",
+"referer": "https://www.ufa1913.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
-{  
-name:"Global Trekker",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjdhjUnRkondfiR96E1dVUVGGpzpGXBgNdg&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+{
+name:"History สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU",
+url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=mc6Ghb2&nocache=",
+"referer": "https://www.ufa1913.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
 name:"National Geographic สำรอง",
