@@ -1,6 +1,6 @@
 {
 name:"ENTERTAINMENT",
-author:"ทำฟรี BY SUN",
+author:"ดูฟรี BY SUN",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-Hg04bRcxnfLrtvZkWQX5qac9ZgafZblw&usqp=CAU",
 
 stations:[
@@ -261,7 +261,7 @@ url:"https://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/playlist.m3u8"
 {
 name:"SWEET",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0SIcV89Zo3j0Pyv4jWgQ5ceHIKvz9GgJtdw&usqp=CAU",
-url:"http://61.19.242.134/feed/202205171929/LC58/index.m3u8",
+url:"http://61.19.242.134/feed/202306140918/LC58/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 }
 ]
