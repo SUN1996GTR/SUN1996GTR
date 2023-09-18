@@ -58,16 +58,16 @@ url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
 {
 name:"TRUE EXPLORE SCI",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Qlw65KKrmTjsa5WwZ60MTACvtOxZie9Csg&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=th-expsci&api_key=kmf743jnd",
-"referer":"https://ufac4.net/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-expsci&api_key=mc6Ghb2",
+"referer": "https://www.ufa1913.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {  
 name:"TRUE EXPLORE LIFE",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCMDnqPWEHP5K2IFSRVC_57ElYq3v8GUohg&usqp=CAU",
-url:"https://embed-dev.blackboxsys.net/player.php?channel=th-explife&api_key=kmf743jnd",
-"referer":"https://ufac4.net/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"
+url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-explife&api_key=mc6Ghb2",
+"referer": "https://www.ufa1913.com/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 { 
 name:"Asian Food Network",
