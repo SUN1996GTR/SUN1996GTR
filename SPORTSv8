@@ -108,14 +108,6 @@ url:"https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com"
 },
 {
-name:"GOLF CHANNEL PLUS",
-image:"https://truevisions.co.th/static/cf914fff-3783-4d26-b0e1-cad8ee5bcaac.jpg",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-golf2&api_key=hmcb4rf66f",
-"isHost": "true",
-"referer": "https://dooball66s.com/",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-{
 name:"T Sports 7",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",
 url:"http://61.19.242.134/feed/202306140918/chtsport/index.m3u8",
