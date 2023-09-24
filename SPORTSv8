@@ -75,7 +75,7 @@ url:"https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8",
 name:"BEIN SPORTS 1",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_LrpYYqZag6MlTphZ8XiS2sG5juyprYbhYg&usqp=CAU",
 url:"https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com",
+"referer": "https://www.doomovie-hd.com"
 },
 {
 name:"BEIN SPORTS 3",
@@ -114,7 +114,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 "isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
 name:"T Sports 7",
@@ -223,6 +223,7 @@ url:"https://www.tsports7.com/live",
 name:"TRUE PREMIUM FOOTBALL 1 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
 url:"https://playerembed-lb.blackboxsys.net/player.php?channel=epl-1&api_key=mc6Ghb2",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -240,6 +241,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE PREMIUM FOOTBALL 3 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-3&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -248,6 +250,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE PREMIUM FOOTBALL 4 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-4&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -256,6 +259,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE PREMIUM FOOTBALL 5 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-5&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -264,6 +268,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"BEIN SPORTS 1 สำรอง2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -272,6 +277,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"BEIN SPORTS 2 สำรอง2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZwO8MyRj3wWjU7kvxwU22JE96Esnq3M3ow&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein2&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -280,6 +286,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"BEIN SPORTS 3 สำรอง2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzN7sKO601d6UCk0dTYhw1QWEe1CsDfHqsw&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=epl-bein3&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -288,6 +295,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE SPORTS 1 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tsport1&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -296,6 +304,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE SPORTS 2 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tsport2&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -304,6 +313,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE SPORTS 3 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tsport3&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -312,6 +322,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE SPORTS 4 สำรอง2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_xIwLyH81MOcSpju6MBNECRGdQbackaW7g&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tsport4&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -320,6 +331,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE SPORTS 5 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-tsport5&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -328,6 +340,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE SPORTS 7 สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-tsport7&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -336,6 +349,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"SPOTV 1 สำรอง2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-spotv&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -344,6 +358,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"SPOTV 2 สำรอง2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQhMcIDlc0D50DGWwJT3MBRL16E5hu2vmxg&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-spotv2&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -352,6 +367,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"TRUE TENNIS สำรอง2",
 image:"https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tennis&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
@@ -360,6 +376,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"T Sports 7 สำรอง2",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-tsports&api_key=hmcb4rf66f",
+"isHost": "true",
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
