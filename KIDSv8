@@ -8,34 +8,17 @@ stations:[
 {
 name:"DreamWorks",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgSrSr1gAiu_15RhQeT0sHKVKltoEuKtn-Q&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-dreamworks&api_key=mc6Ghb2",
-"referer": "https://ufa1913.com/",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-dreamworks&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {  
 name:"Cartoon Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-cartoonnetwork&api_key=mc6Ghb2",
-"referer": "https://ufa1913.com/","userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
-{
-name:"Nickelodeon",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyTzSx0GdKViGVhrU8ULZaeh7snf4KpG4nA&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickelodeon&api_key=mc6Ghb2",
-"referer": "https://www.ufa1913.com/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
-{  
-name:"Nick Jr",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtlfPAZ_XTjiQLmBliw8PE23fzJ7ktYGU1g&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickjr&api_key=mc6Ghb2","referer": "https://ufa1913.com/","userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
-{  
-name:"SparkJump",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2L4FBQUdMn1JeU_tSCML04fMsOsxHLLOwQ&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkjump&api_key=mc6Ghb2",
-"referer": "https://www.ufa1913.com/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
 },
 {
 name:"Cartoon Club",
@@ -45,9 +28,14 @@ url:"https://edge1-bkk.3bb.co.th:9443/Alter_CartoonClub_Live/CartoonClub_Alter.s
 {
 name:"Boomerang",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzMi_0peCSdx0tmtA6oE3Mf9JCYRg1hzMKw&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+url:"https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8"
 },
 {
+name:"Movies World",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwp8tF37gkbO8czApRoTXf5SLtVdEOrGZgsA&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/202306140918/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+},
+{ 
 name:"FwToon",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHa8sb2sv2-GpYNxyOjDaIqnaXtoTXIVTSQ&usqp=CAU",
 url:"https://www.inwiptv.com/player_demo.php?channel=89780",
@@ -55,26 +43,26 @@ url:"https://www.inwiptv.com/player_demo.php?channel=89780",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {
-name:"Toonee",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCvAIHIA4GSnKQGojA3iIltAeQmIbK5_rDXw&usqp=CAU",
-url:"http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8"
+name:"My Little Pony",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VlDFf1Xi1oBe87N1eJGz_zWgu2c4VySVZw&usqp=CAU",
+url:"https://livestream.zazerconer.workers.dev/channel/UCOT9qiUmk4mk-B_hN__toTw.m3u8"
+},
+{  
+name:"Robocar Poli",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSne9h5MIVYOcWcx_1yc3kDUJbgmvRNE0SBmg&usqp=CAU",
+url:"https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8"
+},
+{  
+name:"Disney Junior",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPAUuoLr6GfJUJLkza5Kv2OhKMp51n8jEPGg&usqp=CAU",
+url:"https://livestream.zazerconer.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8"
+},
+{  
+name:"BabyBus",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahiRFU_5gEWrgpgTCCqRTipQZLWR5v9TM3Q&usqp=CAU",
+url:"https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8"
 },
 {
-name:"sanook",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DuFIRZurVRaqEH1I2dQhPLqxJ31IYamkAA&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202306140918/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
-},
-{ 
-name:"Nick Jr Pluto",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcyhWeejb5IWopxAL1MNIB3sGAegQOmYJ_g&usqp=CAU",
-url:"https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8"
-},
-{  
-name:"CONtv ANIME",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XcicAcpnZOsMIlRVbYII6BCAtuTDDD98hw&usqp=CAU",
-url:"https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8"
-},
-{  
 name:"PBS Kids",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVn9KAP1vCPO3MdLBCDz5B-JM8F26DVfRpdw&usqp=CAU",
 url:"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
