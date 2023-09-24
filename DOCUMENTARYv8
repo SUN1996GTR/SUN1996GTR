@@ -32,15 +32,19 @@ url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
 {  
 name:"Discovery",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe78brK5kEy6Pc1G3EYn4xhrc7yAQZqMbWGA&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=mc6Ghb2&nocache=",
-"referer": "https://www.ufa1913.com/",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
 name:"National Geographic",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNZFpMWynbl3M_AlHqXAwmXRRxGDXjH4GmQ&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=mc6Ghb2&nocache=",
-"referer": "https://www.ufa1913.com/",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
@@ -56,43 +60,28 @@ url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
 "referer": "https://freetvdd.com/"
 },
 {
-name:"TRUE EXPLORE SCI",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Qlw65KKrmTjsa5WwZ60MTACvtOxZie9Csg&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-expsci&api_key=mc6Ghb2",
-"referer": "https://www.ufa1913.com/",
+name:"Animal Planet",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRV-AvbkjaJ2FXxSYEhVB4nd-QDui8joDKQ&usqp=CAU",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {  
-name:"TRUE EXPLORE LIFE",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCMDnqPWEHP5K2IFSRVC_57ElYq3v8GUohg&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-explife&api_key=mc6Ghb2",
-"referer": "https://www.ufa1913.com/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
-{ 
 name:"Asian Food Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScokHhcLh-q9D9n5dJ3OuLhvsgjvf7DIEVUA&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-asianfood&api_key=mc6Ghb2",
-"referer": "https://www.ufa1913.com/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
-{  
-name:"TLC",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRLHlWQ-HsbBT33th4OJjaY-9dIv2fPTfOQ&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-tlc&api_key=mc6Ghb2",
-"referer": "https://www.ufa1913.com/",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-food&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {  
 name:"ANIMAL KINGDOM",
-image:"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbxTCmKEbDffP8YXHN-kw_a8NEQ0lrXpr0I-KBwyX9IKRQHM6O",
+image:"https://sv1.picz.in.th/images/2022/10/20/vSr9Ml.png",
 url:"https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
  "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-},
-{  
-name:"INWILD",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5ITsKR544CllUWlGpXoO_B-f8oax7G81zg&usqp=CAU",
-url:"https://inwild-samsung-uk.amagi.tv/playlist.m3u8"
 },
 {  
 name:"ของดี ประเทศไทย",
@@ -108,18 +97,31 @@ url:"http://www.trueplookpanya.com/tv/",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
+name:"TRUE EXPLORE WILD สำรอง",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQycTCBNNv-l2aEbwJu0A3zA8GBNjKvBYphjA&usqp=CAU",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-expwild&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+},
+{  
 name:"Discovery Asia สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVSLXxul2rmqhsSo3KSf6OzZUyt0TUkm_DQ&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=mc6Ghb2&nocache=",
-"referer": "https://www.ufa1913.com/",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-discovery&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
 name:"History สำรอง",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU",
 url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfacuj_Gs_OAXSqfG9twphTaFZRGz8sjxg2R9taX1AULOrW27gIbb-6hM&s=10",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=mc6Ghb2&nocache=",
-"referer": "https://www.ufa1913.com/",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-history&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
