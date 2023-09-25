@@ -212,6 +212,12 @@ url:"https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truesportsd7/playlis
 "referer": "https://www.livestream88.com/"
 },
 {
+name:"GOLF CHANNEL สำรอง1",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4McLThjiyxXdBHaRVpBDCQQGT2Ny59mwGGg&usqp=CAU",
+url:"https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/golf/playlist.m3u8",
+"referer": "https://www.livestream88.com/"
+},
+{
 name:"TRUE TENNIS สำรอง1",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXYkSW3mcTIwHjbs2fWJW6GxJN9xTCRDrYw&usqp=CAU",
 url:"https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/truetennis/playlist.m3u8",
@@ -363,6 +369,14 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+},
+{
+name:"GOLF CHANNEL สำรอง2",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4McLThjiyxXdBHaRVpBDCQQGT2Ny59mwGGg&usqp=CAU",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-golf&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
 name:"TRUE TENNIS สำรอง2",
