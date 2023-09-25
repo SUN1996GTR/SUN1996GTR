@@ -42,9 +42,7 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 name:"National Geographic",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNZFpMWynbl3M_AlHqXAwmXRRxGDXjH4GmQ&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
-"isHost": "true",
 "referer": "https://dooball66s.com/",
-"origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {
