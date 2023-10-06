@@ -30,20 +30,10 @@ url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
 "referer": "https://freetvdd.com/"
 },
 {  
-name:"Discovery",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe78brK5kEy6Pc1G3EYn4xhrc7yAQZqMbWGA&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-discovery&api_key=hmcb4rf66f",
-"isHost": "true",
-"referer": "https://dooball66s.com/",
-"origin":"https://playerembed-lb.blackboxsys.net/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
-{
-name:"National Geographic",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNZFpMWynbl3M_AlHqXAwmXRRxGDXjH4GmQ&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-natgeo&api_key=hmcb4rf66f",
-"referer": "https://dooball66s.com/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+name:"History",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
 },
 {
 name:"TRUE EXPLORE WILD",
@@ -52,12 +42,6 @@ url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
 "referer": "https://freetvdd.com/"
 },
 {  
-name:"History",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
-},
-{
 name:"Animal Planet",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRV-AvbkjaJ2FXxSYEhVB4nd-QDui8joDKQ&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-animalplanet&api_key=hmcb4rf66f",
@@ -67,6 +51,15 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {  
+name:"Discovery",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe78brK5kEy6Pc1G3EYn4xhrc7yAQZqMbWGA&usqp=CAU",
+url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=sd-discovery&api_key=hmcb4rf66f",
+"isHost": "true",
+"referer": "https://dooball66s.com/",
+"origin":"https://playerembed-lb.blackboxsys.net/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
+},
+{
 name:"Asian Food Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScokHhcLh-q9D9n5dJ3OuLhvsgjvf7DIEVUA&usqp=CAU",
 url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-food&api_key=hmcb4rf66f",
@@ -76,10 +69,11 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
 },
 {  
-name:"ANIMAL KINGDOM",
-image:"https://sv1.picz.in.th/images/2022/10/20/vSr9Ml.png",
-url:"https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+name:"FwDocumentary",
+image:"https://drive.google.com/uc?id=1IV33lmxFrir-a33BRzPvEFqvgjvQX0cI",
+url:"https://www.inwiptv.com/player_demo.php?channel=91303",
+ "referer": "https://www.inwiptv.com/",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 {  
 name:"ของดี ประเทศไทย",
@@ -121,12 +115,6 @@ url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=
 "referer": "https://dooball66s.com/",
 "origin":"https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
-{
-name:"National Geographic สำรอง",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3veR1JShUQMyrlxYkwRZcS0qLIY5P5c89Q&usqp=CAU",
-url:"https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8",
-"referer": "https://freetvdd.com/"
 },
 {
 name:"Sumlojok สำรอง",
