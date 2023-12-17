@@ -1,20 +1,11 @@
 {
 name:"KIDS",
-author:"ดูฟรี BY SUN",
+author:"แจกฟรีห้ามจำหน่าย",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
 
 stations:[
 
 {
-name:"DreamWorks",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgSrSr1gAiu_15RhQeT0sHKVKltoEuKtn-Q&usqp=CAU",
-url:"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-dreamworks&api_key=hmcb4rf66f",
-"isHost": "true",
-"referer": "https://dooball66s.com/",
-"origin":"https://playerembed-lb.blackboxsys.net/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Mobile Safari/537.36"
-},
-{  
 name:"Cartoon Network",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdhruDN5FID-D7D1Hze2BzBv9J-Fyl89pbg&usqp=CAU",
 url:"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
@@ -33,7 +24,7 @@ url:"https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8"
 {
 name:"Movies World",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwp8tF37gkbO8czApRoTXf5SLtVdEOrGZgsA&usqp=CAU",
-url:"https://cdn6.goprimetime.info/feed/202306140918/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"
 },
 { 
 name:"FwToon",
@@ -51,11 +42,6 @@ url:"https://livestream.zazerconer.workers.dev/channel/UCOT9qiUmk4mk-B_hN__toTw.
 name:"Robocar Poli",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSne9h5MIVYOcWcx_1yc3kDUJbgmvRNE0SBmg&usqp=CAU",
 url:"https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8"
-},
-{  
-name:"Disney Junior",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPAUuoLr6GfJUJLkza5Kv2OhKMp51n8jEPGg&usqp=CAU",
-url:"https://livestream.zazerconer.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8"
 },
 {  
 name:"BabyBus",
