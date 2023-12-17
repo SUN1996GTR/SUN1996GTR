@@ -1,0 +1,58 @@
+{
+name:"DOUCMENTARY",
+author:"แจกฟรีห้ามจำหน่าย",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6KBVGrU6YY5bwzEYaPg9vd4Poygc-bCcMQ&usqp=CAU",
+
+stations:[
+
+{
+name:"Sumlojlok",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+},
+{
+name:"MySci",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9a0o12Gnm62_YR7malqCzdJlwVUAlPNn6mA&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+},
+{
+name:"Discovery Asia",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJxQqvZpQHNsPu-kYHVsSm_Y2Og6UJcekRA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
+},
+{
+name:"BBC earth",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtrW90s7FgmfIvjlmZ_LW9k2BO3_hSgskmQ&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
+},
+{  
+name:"History",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO_e_sX-GaJrkhXAIFUOya20aEtvCkuqmOA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
+},
+{
+name:"TRUE EXPLORE WILD",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RI4TRP5ZKKtpolvI72iBD0mKLXdNwYb_qA&usqp=CAU",
+url:"https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/"
+},
+{  
+name:"ของดี ประเทศไทย",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2t9gXeGgWDls8JzHCy9ak9uPfVhLt4dybAg&usqp=CAU",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+},
+{  
+name:"ทรูปลูกปัญญา",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXmoVPffwBbbuTvvT_RdWwnUpqXITVVkuBA&usqp=CAU",
+url:"http://www.trueplookpanya.com/tv/",
+ "referer": "http://www.trueplookpanya.com/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+}
+]
+}
